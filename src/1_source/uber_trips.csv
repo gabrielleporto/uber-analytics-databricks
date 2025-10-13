@@ -1,0 +1,1001 @@
+start_date,end_date,category,start,stop,miles,purpose
+25/05/2016 01:54,25/05/2016 02:11,Business,Miami,Boston,2.1,Travel
+11/08/2016 02:44,11/08/2016 02:58,Personal,Austin,Charlotte,23.0,Dinner
+17/10/2016 11:08,17/10/2016 12:14,Business,New York,San Diego,75.7,Meeting
+29/05/2016 07:12,29/05/2016 08:40,Personal,Los Angeles,Cambridge,41.9,Meal/Entertain
+09/04/2016 03:45,09/04/2016 04:48,Personal,Fort Lauderdale,Las Vegas,72.1,Customer Visit
+31/12/2016 13:50,31/12/2016 15:09,Personal,Los Angeles,Charlotte,3.9,Errand/Supplies
+13/12/2016 12:55,13/12/2016 14:05,Personal,Seattle,New York,27.1,Client Dinner
+28/09/2016 15:25,28/09/2016 16:06,Business,Fort Lauderdale,Las Vegas,5.1,Shopping
+24/05/2016 22:13,24/05/2016 23:04,Personal,Bellevue,San Jose,16.0,Partner Meeting
+03/03/2016 20:14,03/03/2016 21:39,Personal,Fort Pierce,Houston,31.8,Meeting
+20/04/2016 19:21,20/04/2016 19:59,Business,Fort Pierce,San Diego,48.3,Meal/Entertain
+09/10/2016 03:08,09/10/2016 03:26,Business,Irving,Phoenix,74.2,Shopping
+17/01/2016 04:01,17/01/2016 04:24,Personal,Boston,Las Vegas,32.8,Travel
+12/11/2016 13:03,12/11/2016 13:17,Personal,Orlando Airport,Los Angeles,64.7,Client Dinner
+26/02/2016 22:25,26/02/2016 23:40,Personal,Philadelphia,Orlando Airport,75.8,Meal/Entertain
+26/08/2016 11:14,26/08/2016 11:59,Business,Bellevue,Denver,26.9,Entertainment
+18/06/2016 23:55,19/06/2016 00:45,Personal,Philadelphia,Charlotte,67.3,Dinner
+09/02/2016 16:32,09/02/2016 17:38,Business,Cambridge,Miami Beach,61.8,Meeting
+26/03/2016 03:21,26/03/2016 03:27,Personal,Charlotte,Seattle,43.0,
+01/01/2016 08:13,01/01/2016 08:49,Business,Atlanta,Dallas,18.9,Shopping
+14/08/2016 11:36,14/08/2016 11:49,Business,Tempe,Las Vegas,18.9,Partner Meeting
+11/05/2016 09:49,11/05/2016 10:13,Business,Hollywood,New York,50.9,Meeting
+04/10/2016 10:42,04/10/2016 11:37,Personal,Irving,Houston,10.1,Team Event
+23/09/2016 14:39,23/09/2016 14:57,Business,Seattle,Atlanta,38.9,Meeting
+10/05/2016 20:12,10/05/2016 21:03,Business,Orlando Airport,Hollywood,21.4,Travel
+25/10/2016 11:06,25/10/2016 12:02,Personal,San Francisco,Brooklyn,21.7,Meal/Entertain
+21/05/2016 01:49,21/05/2016 02:32,Personal,La Jolla,San Jose,25.3,Dinner
+05/07/2016 16:39,05/07/2016 17:19,Business,Orlando,Tempe,70.5,Meeting
+13/05/2016 11:06,13/05/2016 11:39,Business,Seattle,San Jose,77.2,Client Dinner
+17/05/2016 00:26,17/05/2016 01:48,Personal,Denver,Fort Lauderdale,73.5,Conference
+08/08/2016 15:01,08/08/2016 16:20,Business,Las Vegas,San Diego,64.2,Dinner
+23/07/2016 12:14,23/07/2016 13:01,Personal,West Palm Beach,Miami Beach,55.8,Shopping
+09/08/2016 03:45,09/08/2016 04:19,Personal,San Jose,San Jose,79.0,Travel
+11/12/2016 06:30,11/12/2016 07:18,Business,Phoenix,Atlanta,60.0,
+25/01/2016 10:51,25/01/2016 11:40,Business,Fort Lauderdale,Fort Pierce,64.1,Travel
+26/08/2016 15:14,26/08/2016 15:47,Business,Bellevue,La Jolla,75.4,Conference
+08/09/2016 03:12,08/09/2016 04:07,Business,Denver,Atlanta,47.3,Meal/Entertain
+09/08/2016 23:13,10/08/2016 00:11,Business,Chicago,Houston,41.8,Meeting
+25/07/2016 19:15,25/07/2016 19:29,Business,Austin,Houston,43.9,Airport Drop-off
+12/06/2016 11:20,12/06/2016 11:54,Personal,Seattle,Las Vegas,49.4,Errand/Supplies
+05/12/2016 23:22,06/12/2016 00:26,Business,Fort Lauderdale,Las Vegas,22.7,Entertainment
+13/11/2016 01:00,13/11/2016 01:32,Personal,Denver,Hollywood,50.4,Conference
+03/06/2016 08:22,03/06/2016 09:08,Personal,Orlando,Miami,77.5,Customer Visit
+15/09/2016 09:39,15/09/2016 10:36,Personal,Seattle,Orlando Airport,26.0,Partner Meeting
+30/10/2016 17:45,30/10/2016 18:47,Business,Brooklyn,Cambridge,71.0,Errand/Supplies
+24/02/2016 17:45,24/02/2016 18:17,Personal,Orlando,New York,40.4,Client Dinner
+17/07/2016 08:09,17/07/2016 08:17,Personal,Austin,Charlotte,25.1,Entertainment
+07/06/2016 17:27,07/06/2016 17:40,Business,Hollywood,Orlando Airport,4.7,Client Dinner
+05/12/2016 22:01,05/12/2016 22:41,Business,West Palm Beach,Denver,62.4,Dinner
+30/10/2016 10:43,30/10/2016 11:46,Personal,Las Vegas,Cambridge,51.8,Partner Meeting
+06/03/2016 11:55,06/03/2016 12:47,Personal,San Jose,San Jose,32.6,Networking Event
+12/09/2016 14:24,12/09/2016 14:46,Business,Tempe,Irving,22.7,Client Dinner
+07/02/2016 19:06,07/02/2016 20:11,Business,Miami Beach,Miami,51.1,Errand/Supplies
+08/01/2016 04:55,08/01/2016 05:53,Business,San Jose,West Palm Beach,25.8,Entertainment
+26/02/2016 16:33,26/02/2016 16:47,Personal,Phoenix,Bellevue,26.8,Visiting Friends
+09/01/2016 17:12,09/01/2016 17:24,Business,Austin,San Jose,42.6,Partner Meeting
+21/02/2016 12:17,21/02/2016 13:32,Personal,Los Angeles,Charlotte,49.8,Meal/Entertain
+27/03/2016 04:47,27/03/2016 05:24,Personal,Boston,Austin,5.5,Entertainment
+10/04/2016 05:31,10/04/2016 06:08,Business,Irving,Philadelphia,7.0,Travel
+28/10/2016 01:03,28/10/2016 01:33,Business,Bellevue,La Jolla,54.1,Errand/Supplies
+10/12/2016 20:08,10/12/2016 21:34,Personal,Los Angeles,Phoenix,20.7,Conference
+11/01/2016 19:29,11/01/2016 20:48,Business,San Jose,Philadelphia,6.6,Travel
+12/05/2016 06:55,12/05/2016 08:04,Personal,Tempe,Hollywood,45.7,Entertainment
+13/08/2016 01:32,13/08/2016 01:47,Personal,Orlando Airport,Miami Beach,9.6,Entertainment
+23/07/2016 04:39,23/07/2016 05:58,Business,La Jolla,New York,17.3,Errand/Supplies
+01/11/2016 18:02,01/11/2016 18:50,Personal,Boston,Hollywood,11.7,Networking Event
+21/12/2016 22:40,21/12/2016 22:49,Business,Hollywood,Los Angeles,35.2,Travel
+01/12/2016 21:59,01/12/2016 23:24,Personal,Seattle,Miami,14.0,Customer Visit
+29/03/2016 05:42,29/03/2016 07:10,Business,Orlando Airport,San Jose,72.6,Dinner
+19/02/2016 19:08,19/02/2016 20:30,Business,Irving,Denver,56.1,Meeting
+06/01/2016 23:53,07/01/2016 00:33,Personal,Dallas,Chicago,49.0,Conference
+08/12/2016 09:54,08/12/2016 11:06,Personal,Bellevue,Denver,57.9,Visiting Friends
+30/03/2016 20:17,30/03/2016 20:32,Business,Chicago,San Jose,43.4,Entertainment
+02/06/2016 11:15,02/06/2016 11:20,Personal,Cambridge,Houston,54.2,Dinner
+19/11/2016 12:50,19/11/2016 12:57,Personal,Boston,Denver,24.7,
+08/12/2016 20:31,08/12/2016 21:44,Business,Miami Beach,Phoenix,3.8,Partner Meeting
+18/12/2016 14:32,18/12/2016 14:55,Personal,Brooklyn,Orlando Airport,45.4,Commute
+31/07/2016 00:55,31/07/2016 02:16,Business,Bellevue,Phoenix,42.7,Meal/Entertain
+07/03/2016 12:42,07/03/2016 14:12,Business,Fort Pierce,Los Angeles,36.9,Meal/Entertain
+26/11/2016 13:06,26/11/2016 13:38,Personal,New York,Las Vegas,49.3,Entertainment
+12/02/2016 08:55,12/02/2016 10:08,Business,New York,Atlanta,18.4,Travel
+27/07/2016 18:08,27/07/2016 18:58,Personal,Dallas,Fort Lauderdale,63.0,Entertainment
+13/09/2016 05:03,13/09/2016 06:28,Business,Orlando Airport,Seattle,2.3,Partner Meeting
+05/10/2016 05:09,05/10/2016 05:14,Personal,Houston,Seattle,60.9,Dinner
+09/12/2016 13:47,09/12/2016 14:15,Personal,Austin,Chicago,75.2,Errand/Supplies
+24/07/2016 15:54,24/07/2016 16:32,Personal,Hollywood,Fort Lauderdale,58.7,Client Dinner
+30/10/2016 22:52,30/10/2016 23:21,Business,Fort Pierce,Charlotte,27.8,Visiting Friends
+09/09/2016 01:36,09/09/2016 03:06,Personal,Charlotte,Miami Beach,79.9,Networking Event
+05/05/2016 02:41,05/05/2016 03:11,Personal,Austin,Hollywood,31.7,Meeting
+26/12/2016 11:33,26/12/2016 12:19,Business,Seattle,Philadelphia,29.6,Partner Meeting
+12/10/2016 00:27,12/10/2016 00:47,Business,Fort Pierce,Irving,46.4,Airport Drop-off
+21/07/2016 05:58,21/07/2016 07:23,Personal,Miami Beach,Philadelphia,44.0,Commute
+15/09/2016 23:44,16/09/2016 00:02,Business,Philadelphia,Philadelphia,62.7,Entertainment
+28/03/2016 04:42,28/03/2016 05:52,Personal,Austin,Fort Lauderdale,28.0,Dinner
+16/02/2016 11:24,16/02/2016 12:05,Business,Charlotte,West Palm Beach,19.7,Meal/Entertain
+27/02/2016 17:20,27/02/2016 18:38,Business,New York,Cambridge,12.0,Commute
+23/01/2016 20:12,23/01/2016 21:33,Personal,Boston,Tempe,71.5,Meeting
+21/01/2016 14:47,21/01/2016 14:55,Personal,Tempe,Dallas,38.0,Customer Visit
+08/08/2016 03:41,08/08/2016 04:40,Personal,Cambridge,Orlando,68.1,Entertainment
+21/05/2016 03:12,21/05/2016 03:19,Business,Seattle,San Francisco,45.4,Airport Drop-off
+19/05/2016 23:02,19/05/2016 23:07,Business,Orlando,Tempe,41.3,Shopping
+10/12/2016 08:27,10/12/2016 09:12,Business,San Francisco,New York,58.0,Dinner
+07/04/2016 13:06,07/04/2016 13:14,Personal,Atlanta,Orlando,53.1,Client Dinner
+01/04/2016 01:56,01/04/2016 02:17,Business,La Jolla,Boston,40.2,Customer Visit
+13/05/2016 17:29,13/05/2016 18:58,Personal,Hollywood,San Jose,39.7,Travel
+31/05/2016 16:04,31/05/2016 16:51,Personal,San Francisco,San Jose,77.2,
+16/08/2016 17:23,16/08/2016 18:17,Business,San Jose,Bellevue,3.9,Visiting Friends
+15/06/2016 02:47,15/06/2016 04:10,Business,Bellevue,San Diego,38.3,Meal/Entertain
+03/11/2016 07:23,03/11/2016 07:32,Business,New York,Tempe,49.2,Shopping
+08/06/2016 08:36,08/06/2016 09:49,Personal,Denver,San Francisco,68.8,Client Dinner
+17/06/2016 05:11,17/06/2016 06:20,Personal,Houston,Boston,20.2,Travel
+01/07/2016 00:44,01/07/2016 01:33,Personal,Orlando Airport,Miami,47.6,Client Dinner
+31/05/2016 02:52,31/05/2016 03:27,Personal,Charlotte,Orlando Airport,52.8,
+01/02/2016 16:47,01/02/2016 17:47,Business,Los Angeles,San Francisco,30.7,
+11/03/2016 02:17,11/03/2016 02:39,Personal,San Francisco,Hollywood,62.8,Meeting
+14/01/2016 14:32,14/01/2016 15:42,Business,San Diego,Chicago,40.9,Dinner
+07/11/2016 15:07,07/11/2016 15:51,Personal,Las Vegas,Denver,70.3,Shopping
+15/02/2016 09:55,15/02/2016 10:13,Personal,Bellevue,La Jolla,46.8,Team Event
+27/06/2016 20:51,27/06/2016 21:23,Personal,Austin,West Palm Beach,66.0,Client Dinner
+03/12/2016 05:03,03/12/2016 05:45,Business,Orlando,Philadelphia,47.7,
+19/03/2016 19:30,19/03/2016 20:07,Personal,Charlotte,New York,23.7,Customer Visit
+12/02/2016 05:22,12/02/2016 05:40,Business,Fort Pierce,Bellevue,8.5,Conference
+23/11/2016 07:39,23/11/2016 08:47,Personal,Miami,Austin,56.3,Visiting Friends
+15/12/2016 02:04,15/12/2016 02:24,Personal,Tempe,Denver,51.8,Commute
+13/08/2016 06:19,13/08/2016 06:49,Personal,West Palm Beach,Fort Pierce,10.4,Meeting
+24/10/2016 02:55,24/10/2016 03:27,Personal,San Diego,Chicago,78.7,
+23/09/2016 10:16,23/09/2016 10:52,Business,Houston,West Palm Beach,64.4,
+15/07/2016 09:50,15/07/2016 10:46,Business,San Jose,Las Vegas,71.2,Customer Visit
+07/12/2016 01:39,07/12/2016 02:59,Business,La Jolla,Miami Beach,41.7,
+11/02/2016 16:07,11/02/2016 16:17,Personal,Bellevue,Fort Pierce,39.9,Meal/Entertain
+20/06/2016 08:19,20/06/2016 08:38,Personal,Austin,West Palm Beach,51.2,Client Dinner
+11/04/2016 23:30,11/04/2016 23:35,Business,Orlando Airport,San Francisco,18.4,Airport Drop-off
+23/05/2016 17:43,23/05/2016 18:40,Business,San Francisco,Cambridge,30.6,Dinner
+27/01/2016 13:22,27/01/2016 13:59,Personal,Orlando Airport,San Jose,37.4,Client Dinner
+02/07/2016 19:56,02/07/2016 20:32,Business,Los Angeles,San Francisco,18.0,Visiting Friends
+05/04/2016 02:48,05/04/2016 04:06,Business,San Francisco,West Palm Beach,65.8,Entertainment
+23/07/2016 18:50,23/07/2016 19:29,Business,New York,Phoenix,72.5,Networking Event
+22/07/2016 09:42,22/07/2016 10:51,Business,Seattle,Irving,67.2,Partner Meeting
+29/10/2016 18:14,29/10/2016 19:33,Personal,Fort Pierce,New York,70.8,
+25/07/2016 20:21,25/07/2016 21:45,Personal,Dallas,Seattle,57.0,Partner Meeting
+26/11/2016 08:08,26/11/2016 08:27,Personal,Tempe,Atlanta,2.4,Meeting
+11/03/2016 12:46,11/03/2016 13:38,Business,Philadelphia,Houston,28.2,Visiting Friends
+04/05/2016 15:20,04/05/2016 16:39,Business,Las Vegas,Hollywood,1.5,Errand/Supplies
+25/03/2016 15:13,25/03/2016 15:36,Business,West Palm Beach,Las Vegas,13.9,Shopping
+09/11/2016 00:04,09/11/2016 00:25,Business,Miami Beach,Atlanta,42.5,Commute
+24/02/2016 17:18,24/02/2016 18:07,Personal,Chicago,Hollywood,55.5,Entertainment
+26/01/2016 15:27,26/01/2016 16:17,Personal,Miami Beach,Boston,74.4,Visiting Friends
+18/10/2016 04:31,18/10/2016 05:52,Personal,Bellevue,Dallas,11.7,Partner Meeting
+05/07/2016 09:52,05/07/2016 10:14,Business,Los Angeles,Miami,33.2,Visiting Friends
+23/03/2016 04:31,23/03/2016 04:50,Business,Tempe,San Francisco,9.7,Meal/Entertain
+10/07/2016 01:09,10/07/2016 02:16,Personal,Tempe,Los Angeles,67.1,Travel
+29/03/2016 21:48,29/03/2016 22:06,Business,Cambridge,San Francisco,19.9,Partner Meeting
+06/04/2016 15:50,06/04/2016 16:26,Business,San Francisco,Denver,75.5,Conference
+22/06/2016 02:05,22/06/2016 02:36,Business,New York,Orlando Airport,60.4,Commute
+12/07/2016 12:19,12/07/2016 13:28,Personal,Chicago,Phoenix,53.6,
+12/02/2016 02:24,12/02/2016 03:11,Personal,Boston,Denver,68.0,Networking Event
+06/07/2016 16:24,06/07/2016 16:35,Personal,Phoenix,Miami Beach,74.7,Errand/Supplies
+12/12/2016 03:46,12/12/2016 03:57,Business,Irving,San Francisco,79.2,Partner Meeting
+03/06/2016 06:42,03/06/2016 08:03,Business,New York,San Jose,32.0,Dinner
+04/10/2016 13:14,04/10/2016 14:20,Personal,New York,San Jose,17.9,Customer Visit
+21/03/2016 18:53,21/03/2016 19:08,Business,Phoenix,Bellevue,22.8,Partner Meeting
+22/10/2016 03:47,22/10/2016 05:16,Business,Miami Beach,Orlando Airport,4.9,Conference
+15/03/2016 15:57,15/03/2016 17:03,Personal,San Diego,Boston,67.4,Team Event
+20/04/2016 06:25,20/04/2016 07:37,Business,Las Vegas,Brooklyn,75.0,Errand/Supplies
+20/01/2016 13:12,20/01/2016 14:03,Personal,Las Vegas,Bellevue,29.3,Commute
+13/05/2016 07:46,13/05/2016 08:01,Business,La Jolla,Irving,70.9,Visiting Friends
+31/07/2016 12:56,31/07/2016 13:32,Business,Bellevue,Chicago,62.8,Meeting
+20/07/2016 02:38,20/07/2016 03:44,Business,Atlanta,Hollywood,1.6,Networking Event
+11/10/2016 22:48,11/10/2016 23:43,Personal,New York,San Jose,49.7,Commute
+26/09/2016 11:48,26/09/2016 12:36,Business,Charlotte,Charlotte,60.6,Airport Drop-off
+06/11/2016 10:42,06/11/2016 11:29,Personal,Denver,San Francisco,1.8,Shopping
+23/04/2016 01:03,23/04/2016 02:25,Business,Seattle,Brooklyn,62.8,Airport Drop-off
+24/07/2016 05:43,24/07/2016 07:04,Business,Tempe,Austin,58.2,Customer Visit
+07/11/2016 17:44,07/11/2016 18:18,Business,Los Angeles,Tempe,63.9,Errand/Supplies
+27/08/2016 07:59,27/08/2016 08:12,Business,Miami,Fort Lauderdale,14.2,Dinner
+01/02/2016 15:17,01/02/2016 15:37,Personal,San Jose,Brooklyn,56.3,Errand/Supplies
+04/07/2016 21:52,04/07/2016 23:01,Business,Miami,Austin,65.0,Airport Drop-off
+18/05/2016 17:51,18/05/2016 18:35,Personal,San Jose,Miami Beach,16.6,Partner Meeting
+05/11/2016 02:19,05/11/2016 03:10,Business,Atlanta,Chicago,58.0,Team Event
+13/06/2016 00:29,13/06/2016 01:55,Business,Philadelphia,San Francisco,65.0,Meeting
+20/12/2016 23:08,21/12/2016 00:10,Business,Austin,Irving,22.0,Team Event
+24/04/2016 06:26,24/04/2016 07:54,Business,Seattle,Dallas,37.9,Shopping
+08/02/2016 02:00,08/02/2016 02:54,Business,New York,Phoenix,66.9,Shopping
+11/12/2016 04:00,11/12/2016 04:19,Business,Bellevue,Charlotte,50.8,Errand/Supplies
+26/04/2016 12:38,26/04/2016 13:50,Business,Denver,Charlotte,27.1,Entertainment
+01/11/2016 12:00,01/11/2016 12:10,Business,Denver,Austin,66.0,Partner Meeting
+27/02/2016 00:48,27/02/2016 01:46,Personal,Seattle,Miami,69.6,Commute
+05/09/2016 07:42,05/09/2016 07:47,Personal,Orlando Airport,Boston,14.9,Shopping
+04/09/2016 00:45,04/09/2016 01:17,Business,Fort Lauderdale,San Francisco,37.1,
+10/10/2016 00:01,10/10/2016 00:36,Business,Los Angeles,Denver,15.6,Entertainment
+08/05/2016 10:18,08/05/2016 10:55,Personal,Seattle,Atlanta,43.7,Airport Drop-off
+31/07/2016 04:12,31/07/2016 04:58,Personal,Brooklyn,Charlotte,76.3,Partner Meeting
+18/02/2016 17:57,18/02/2016 19:10,Business,Seattle,Miami Beach,75.0,Meeting
+21/05/2016 23:24,22/05/2016 00:14,Business,San Francisco,La Jolla,76.8,
+12/01/2016 16:08,12/01/2016 17:23,Personal,Orlando,Charlotte,56.7,Partner Meeting
+21/03/2016 23:10,21/03/2016 23:27,Personal,Austin,Chicago,25.4,Travel
+27/01/2016 17:16,27/01/2016 17:58,Business,Orlando,Miami Beach,77.0,Client Dinner
+03/09/2016 18:34,03/09/2016 18:44,Personal,Orlando Airport,Miami,64.7,Entertainment
+12/09/2016 11:42,12/09/2016 12:49,Business,Boston,Miami Beach,11.0,Dinner
+24/12/2016 11:37,24/12/2016 12:39,Personal,La Jolla,Orlando,76.8,Client Dinner
+14/06/2016 19:54,14/06/2016 21:07,Personal,Chicago,San Francisco,49.4,Client Dinner
+17/12/2016 22:13,17/12/2016 22:44,Business,West Palm Beach,Las Vegas,65.0,Dinner
+23/08/2016 06:57,23/08/2016 08:21,Personal,Los Angeles,Philadelphia,47.4,Visiting Friends
+19/04/2016 19:15,19/04/2016 20:00,Business,Tempe,New York,9.0,Dinner
+14/02/2016 16:40,14/02/2016 18:05,Business,Phoenix,San Jose,56.3,
+02/05/2016 03:57,02/05/2016 04:15,Personal,Philadelphia,Fort Pierce,47.6,Client Dinner
+24/12/2016 01:02,24/12/2016 02:22,Personal,New York,Hollywood,48.3,Conference
+09/12/2016 11:40,09/12/2016 12:16,Personal,Irving,West Palm Beach,24.4,Visiting Friends
+27/11/2016 07:56,27/11/2016 09:17,Personal,Seattle,New York,8.9,Team Event
+17/06/2016 08:45,17/06/2016 10:10,Personal,New York,Miami,74.2,Meal/Entertain
+23/03/2016 06:26,23/03/2016 07:56,Personal,Miami Beach,Miami Beach,15.0,Meal/Entertain
+19/11/2016 22:53,19/11/2016 23:28,Personal,Seattle,Cambridge,22.3,Meal/Entertain
+18/05/2016 18:39,18/05/2016 19:39,Personal,Cambridge,Chicago,36.6,Entertainment
+26/02/2016 03:19,26/02/2016 03:24,Personal,Miami,San Diego,74.3,Client Dinner
+19/06/2016 23:32,20/06/2016 00:50,Business,Bellevue,Bellevue,62.8,Airport Drop-off
+07/12/2016 01:08,07/12/2016 02:14,Business,Las Vegas,Orlando,59.1,Commute
+14/05/2016 05:43,14/05/2016 05:50,Personal,Atlanta,Bellevue,74.3,Dinner
+16/05/2016 14:24,16/05/2016 15:40,Business,Houston,Seattle,55.4,Conference
+08/03/2016 20:04,08/03/2016 20:54,Business,Fort Lauderdale,Boston,30.5,Commute
+07/11/2016 09:39,07/11/2016 11:01,Personal,Fort Lauderdale,Miami Beach,25.0,Client Dinner
+23/05/2016 12:20,23/05/2016 13:50,Business,Orlando Airport,Fort Pierce,12.1,Meeting
+06/02/2016 23:36,07/02/2016 00:11,Personal,Tempe,Orlando Airport,34.5,Visiting Friends
+02/08/2016 08:19,02/08/2016 08:58,Business,San Diego,Las Vegas,24.3,Errand/Supplies
+22/11/2016 03:54,22/11/2016 05:10,Business,Cambridge,Charlotte,26.0,Visiting Friends
+11/09/2016 14:50,11/09/2016 16:09,Personal,Houston,Tempe,69.3,Commute
+22/12/2016 22:51,22/12/2016 23:46,Business,San Diego,Hollywood,53.7,Conference
+10/06/2016 17:41,10/06/2016 18:17,Business,Houston,Hollywood,32.2,Shopping
+16/02/2016 03:55,16/02/2016 04:37,Personal,Las Vegas,Hollywood,41.0,Conference
+27/05/2016 16:28,27/05/2016 17:37,Personal,Chicago,Seattle,5.6,Customer Visit
+20/06/2016 21:35,20/06/2016 22:19,Business,Houston,Orlando,40.4,Meal/Entertain
+24/03/2016 17:33,24/03/2016 18:17,Business,Orlando Airport,San Diego,61.1,Partner Meeting
+23/04/2016 12:23,23/04/2016 13:18,Business,San Jose,Hollywood,33.5,Meeting
+04/03/2016 18:57,04/03/2016 19:54,Business,Las Vegas,Miami Beach,34.9,Dinner
+07/08/2016 02:25,07/08/2016 02:55,Personal,Hollywood,Tempe,19.2,Shopping
+15/07/2016 09:02,15/07/2016 09:51,Business,Irving,Miami Beach,58.4,
+05/05/2016 21:03,05/05/2016 21:37,Personal,Phoenix,Dallas,40.0,Dinner
+21/09/2016 16:35,21/09/2016 17:59,Personal,Miami Beach,Las Vegas,5.4,Entertainment
+07/09/2016 11:02,07/09/2016 11:15,Business,Brooklyn,Irving,68.9,Visiting Friends
+09/12/2016 20:27,09/12/2016 20:47,Business,Bellevue,New York,12.5,Travel
+26/10/2016 12:37,26/10/2016 12:46,Business,Austin,Dallas,70.9,Customer Visit
+25/02/2016 01:17,25/02/2016 02:42,Personal,Philadelphia,San Jose,56.5,Airport Drop-off
+23/02/2016 21:29,23/02/2016 22:33,Business,Las Vegas,La Jolla,56.6,Meal/Entertain
+15/05/2016 21:47,15/05/2016 22:53,Business,Tempe,San Diego,68.3,Travel
+14/08/2016 17:23,14/08/2016 18:02,Business,San Francisco,Chicago,52.0,Airport Drop-off
+26/02/2016 10:03,26/02/2016 11:26,Personal,New York,Brooklyn,46.6,Travel
+20/09/2016 05:04,20/09/2016 06:19,Business,Philadelphia,Irving,55.2,Meeting
+19/12/2016 06:18,19/12/2016 06:50,Personal,San Jose,Atlanta,78.7,Errand/Supplies
+13/05/2016 17:36,13/05/2016 18:00,Personal,Boston,Orlando Airport,32.8,Networking Event
+29/06/2016 05:07,29/06/2016 06:28,Personal,Orlando Airport,Brooklyn,72.5,Shopping
+21/01/2016 10:23,21/01/2016 11:18,Business,Fort Lauderdale,Seattle,42.3,Team Event
+28/12/2016 09:24,28/12/2016 10:30,Personal,San Jose,Houston,58.8,Errand/Supplies
+17/11/2016 11:18,17/11/2016 12:43,Business,Boston,Cambridge,43.7,Commute
+25/07/2016 12:56,25/07/2016 13:25,Business,New York,Hollywood,39.5,Errand/Supplies
+30/05/2016 17:06,30/05/2016 17:21,Personal,San Francisco,San Francisco,19.7,Customer Visit
+01/08/2016 19:19,01/08/2016 20:08,Personal,San Diego,Houston,48.6,
+25/06/2016 16:26,25/06/2016 17:54,Personal,Fort Pierce,San Jose,11.7,Partner Meeting
+20/07/2016 09:06,20/07/2016 09:17,Business,San Jose,San Jose,55.9,Dinner
+05/11/2016 13:44,05/11/2016 14:41,Personal,Austin,Houston,20.2,Partner Meeting
+27/02/2016 22:26,27/02/2016 23:27,Personal,Miami Beach,Houston,27.7,Airport Drop-off
+15/09/2016 11:00,15/09/2016 12:23,Business,Los Angeles,Charlotte,64.2,Commute
+25/02/2016 18:06,25/02/2016 18:18,Business,Boston,Tempe,67.6,
+19/06/2016 16:42,19/06/2016 16:53,Personal,Austin,La Jolla,28.3,Networking Event
+30/07/2016 03:20,30/07/2016 03:44,Personal,San Jose,Philadelphia,30.7,Commute
+05/05/2016 12:02,05/05/2016 12:59,Personal,West Palm Beach,Seattle,47.4,Airport Drop-off
+15/12/2016 16:28,15/12/2016 16:42,Business,Las Vegas,Bellevue,18.9,Client Dinner
+17/07/2016 16:52,17/07/2016 16:59,Personal,Tempe,Bellevue,52.2,Commute
+15/04/2016 14:56,15/04/2016 16:21,Business,Seattle,West Palm Beach,34.5,Conference
+11/11/2016 23:42,12/11/2016 00:57,Business,Seattle,Fort Lauderdale,57.0,Team Event
+03/02/2016 22:33,03/02/2016 22:53,Personal,Orlando Airport,Seattle,65.0,Commute
+11/04/2016 11:26,11/04/2016 11:36,Personal,Fort Lauderdale,Los Angeles,78.4,Errand/Supplies
+11/01/2016 00:02,11/01/2016 00:24,Personal,Austin,Irving,29.2,Airport Drop-off
+03/03/2016 20:13,03/03/2016 20:57,Business,San Francisco,Brooklyn,37.8,Visiting Friends
+09/11/2016 21:45,09/11/2016 23:06,Personal,Bellevue,Miami Beach,2.0,Entertainment
+06/05/2016 04:10,06/05/2016 05:00,Business,Bellevue,Philadelphia,19.1,Travel
+22/01/2016 12:50,22/01/2016 13:09,Personal,Atlanta,Miami Beach,5.1,Visiting Friends
+22/07/2016 05:23,22/07/2016 06:27,Personal,Orlando,Irving,13.1,
+09/07/2016 01:39,09/07/2016 02:33,Business,Boston,Phoenix,25.4,Commute
+28/05/2016 21:24,28/05/2016 21:42,Business,Cambridge,Brooklyn,64.5,Client Dinner
+18/12/2016 15:15,18/12/2016 16:30,Personal,Miami Beach,Fort Lauderdale,29.4,Client Dinner
+04/02/2016 14:25,04/02/2016 14:59,Business,San Jose,Brooklyn,41.6,Errand/Supplies
+04/05/2016 00:20,04/05/2016 00:25,Personal,Miami,Brooklyn,43.3,Travel
+13/02/2016 16:03,13/02/2016 16:08,Personal,Bellevue,Las Vegas,3.2,Team Event
+26/06/2016 04:57,26/06/2016 05:26,Personal,Seattle,Philadelphia,16.7,Shopping
+10/07/2016 21:54,10/07/2016 22:54,Business,Irving,Seattle,79.3,
+09/09/2016 21:47,09/09/2016 22:36,Personal,San Diego,Austin,38.7,
+05/08/2016 12:22,05/08/2016 12:56,Business,La Jolla,Philadelphia,4.8,Customer Visit
+18/04/2016 13:00,18/04/2016 13:28,Business,Cambridge,Las Vegas,29.1,Dinner
+10/01/2016 02:21,10/01/2016 02:48,Personal,La Jolla,Chicago,56.0,Meeting
+16/03/2016 14:11,16/03/2016 14:35,Personal,Seattle,Cambridge,13.9,Client Dinner
+25/12/2016 11:27,25/12/2016 12:42,Personal,San Francisco,Boston,17.2,
+13/06/2016 17:29,13/06/2016 17:57,Personal,Miami,Fort Lauderdale,45.4,Errand/Supplies
+17/07/2016 10:52,17/07/2016 12:03,Personal,Austin,Miami Beach,51.0,Errand/Supplies
+11/01/2016 05:13,11/01/2016 05:50,Personal,Bellevue,Los Angeles,27.8,
+29/07/2016 19:40,29/07/2016 20:04,Business,Philadelphia,Dallas,73.6,Customer Visit
+01/05/2016 15:05,01/05/2016 15:40,Business,Fort Lauderdale,San Francisco,66.7,Travel
+11/05/2016 22:14,11/05/2016 23:24,Personal,Brooklyn,Cambridge,4.8,Networking Event
+16/08/2016 12:31,16/08/2016 13:37,Business,San Francisco,Orlando Airport,30.0,Errand/Supplies
+23/10/2016 10:05,23/10/2016 10:31,Business,Los Angeles,Atlanta,74.4,Partner Meeting
+01/11/2016 16:21,01/11/2016 17:20,Business,Chicago,Hollywood,57.7,Shopping
+16/07/2016 05:16,16/07/2016 06:02,Personal,Cambridge,San Jose,29.5,Client Dinner
+08/09/2016 05:14,08/09/2016 06:22,Personal,San Francisco,Chicago,11.7,Airport Drop-off
+04/02/2016 05:17,04/02/2016 05:25,Business,Orlando,Miami Beach,63.9,Visiting Friends
+17/05/2016 18:29,17/05/2016 19:01,Business,Cambridge,West Palm Beach,70.5,Visiting Friends
+31/03/2016 06:58,31/03/2016 07:45,Personal,Fort Lauderdale,San Diego,79.0,Conference
+12/12/2016 01:58,12/12/2016 03:15,Business,Dallas,La Jolla,77.2,Commute
+09/03/2016 18:59,09/03/2016 20:10,Personal,Miami Beach,San Francisco,18.6,Customer Visit
+06/12/2016 10:44,06/12/2016 10:59,Business,Cambridge,Seattle,43.0,Client Dinner
+30/09/2016 09:05,30/09/2016 10:21,Personal,Orlando,Fort Lauderdale,44.1,
+27/03/2016 02:18,27/03/2016 02:40,Personal,Bellevue,San Diego,71.7,Entertainment
+07/09/2016 08:07,07/09/2016 09:00,Personal,Tempe,Chicago,23.5,Visiting Friends
+04/07/2016 20:00,04/07/2016 20:29,Business,Miami,Los Angeles,3.4,Airport Drop-off
+18/12/2016 18:01,18/12/2016 18:17,Business,West Palm Beach,Orlando,66.5,Visiting Friends
+06/07/2016 19:30,06/07/2016 20:50,Business,San Francisco,Cambridge,74.5,
+16/11/2016 21:07,16/11/2016 21:32,Personal,San Jose,Los Angeles,54.4,Visiting Friends
+02/05/2016 07:49,02/05/2016 09:18,Personal,Philadelphia,San Francisco,12.6,Errand/Supplies
+01/09/2016 07:41,01/09/2016 07:57,Business,Orlando,Houston,45.3,Customer Visit
+06/03/2016 01:50,06/03/2016 02:25,Business,Brooklyn,Bellevue,3.7,Networking Event
+01/11/2016 09:19,01/11/2016 09:35,Personal,Denver,San Diego,53.6,Commute
+02/02/2016 02:22,02/02/2016 03:05,Personal,Fort Lauderdale,Austin,71.2,Travel
+23/07/2016 14:46,23/07/2016 15:23,Business,Orlando Airport,Las Vegas,9.1,Visiting Friends
+15/12/2016 17:00,15/12/2016 17:54,Personal,Orlando,Bellevue,44.5,Airport Drop-off
+29/11/2016 20:13,29/11/2016 20:23,Personal,Miami,San Francisco,59.0,Airport Drop-off
+25/01/2016 15:37,25/01/2016 15:49,Business,Chicago,Phoenix,76.3,Meal/Entertain
+27/08/2016 08:06,27/08/2016 08:57,Business,San Jose,New York,68.7,Meal/Entertain
+18/07/2016 11:24,18/07/2016 11:53,Business,Las Vegas,Seattle,24.6,
+06/01/2016 11:04,06/01/2016 11:37,Business,Houston,Houston,23.8,Conference
+08/01/2016 06:14,08/01/2016 07:43,Business,Houston,Las Vegas,77.7,Commute
+18/03/2016 15:41,18/03/2016 16:15,Business,Tempe,Orlando Airport,22.9,Team Event
+25/05/2016 23:36,26/05/2016 00:36,Business,Las Vegas,West Palm Beach,24.2,Dinner
+12/09/2016 02:01,12/09/2016 03:21,Personal,Austin,New York,17.5,Meal/Entertain
+27/08/2016 19:18,27/08/2016 20:18,Personal,Phoenix,Bellevue,20.8,Shopping
+10/03/2016 09:15,10/03/2016 09:42,Personal,Tempe,Brooklyn,76.4,Shopping
+28/11/2016 09:57,28/11/2016 11:19,Personal,Denver,San Jose,3.7,Networking Event
+06/09/2016 08:58,06/09/2016 09:27,Business,San Diego,Seattle,54.7,Airport Drop-off
+08/04/2016 19:51,08/04/2016 21:21,Business,Bellevue,Phoenix,66.2,
+26/03/2016 10:36,26/03/2016 10:52,Business,Hollywood,Orlando,39.4,Customer Visit
+23/11/2016 06:42,23/11/2016 07:19,Personal,Houston,Houston,10.4,Travel
+02/04/2016 04:54,02/04/2016 05:35,Business,San Diego,La Jolla,43.1,Client Dinner
+29/10/2016 00:03,29/10/2016 00:47,Personal,Cambridge,Denver,66.4,Travel
+11/10/2016 01:29,11/10/2016 01:49,Personal,Tempe,San Jose,40.2,Conference
+13/02/2016 22:11,13/02/2016 23:17,Personal,Phoenix,Dallas,46.5,Conference
+01/02/2016 10:00,01/02/2016 10:37,Business,Seattle,Las Vegas,68.2,Customer Visit
+03/05/2016 01:58,03/05/2016 02:36,Personal,New York,Miami,8.7,Conference
+30/09/2016 01:32,30/09/2016 01:46,Personal,Los Angeles,Philadelphia,21.8,
+07/10/2016 01:33,07/10/2016 02:41,Personal,West Palm Beach,Tempe,53.4,Meal/Entertain
+10/11/2016 13:30,10/11/2016 14:10,Business,Charlotte,San Francisco,34.9,Meal/Entertain
+23/08/2016 11:33,23/08/2016 12:47,Personal,Phoenix,Seattle,68.2,Entertainment
+23/10/2016 02:10,23/10/2016 03:40,Business,Brooklyn,La Jolla,56.8,Meeting
+23/10/2016 08:12,23/10/2016 09:37,Personal,West Palm Beach,Las Vegas,26.0,Travel
+10/04/2016 13:32,10/04/2016 14:13,Business,Fort Pierce,San Jose,27.9,Errand/Supplies
+12/10/2016 03:14,12/10/2016 04:19,Personal,Philadelphia,Charlotte,58.4,Travel
+01/07/2016 22:49,01/07/2016 23:01,Business,West Palm Beach,Denver,30.3,Meeting
+14/03/2016 09:44,14/03/2016 11:14,Personal,Dallas,San Jose,44.0,Airport Drop-off
+13/11/2016 12:40,13/11/2016 13:46,Personal,New York,Charlotte,24.0,Shopping
+23/03/2016 13:45,23/03/2016 14:34,Personal,Seattle,Houston,66.7,Meal/Entertain
+03/11/2016 11:15,03/11/2016 12:07,Personal,Brooklyn,Dallas,30.3,Airport Drop-off
+09/09/2016 03:05,09/09/2016 03:30,Personal,Las Vegas,Irving,59.1,Dinner
+08/11/2016 20:49,08/11/2016 22:14,Business,Boston,Irving,58.5,Errand/Supplies
+22/01/2016 04:29,22/01/2016 04:57,Personal,Seattle,Fort Pierce,2.2,Travel
+11/09/2016 02:45,11/09/2016 03:28,Personal,Hollywood,Houston,9.7,Networking Event
+03/12/2016 04:41,03/12/2016 05:47,Business,Orlando,Atlanta,73.8,Entertainment
+13/04/2016 07:22,13/04/2016 08:50,Personal,Denver,Houston,63.6,Dinner
+24/07/2016 05:00,24/07/2016 06:15,Business,Bellevue,Los Angeles,45.1,Entertainment
+21/01/2016 13:18,21/01/2016 13:43,Personal,San Francisco,Irving,55.5,Entertainment
+01/03/2016 12:31,01/03/2016 13:58,Business,San Francisco,Las Vegas,79.7,Meal/Entertain
+19/06/2016 11:00,19/06/2016 11:43,Personal,Los Angeles,Irving,71.0,
+11/05/2016 04:22,11/05/2016 04:40,Personal,Charlotte,Las Vegas,73.0,Meeting
+05/12/2016 19:44,05/12/2016 19:50,Business,Denver,Los Angeles,43.9,Conference
+08/10/2016 16:12,08/10/2016 17:27,Personal,La Jolla,Los Angeles,25.2,Errand/Supplies
+22/05/2016 05:51,22/05/2016 06:51,Personal,Austin,Austin,79.8,Networking Event
+24/10/2016 06:52,24/10/2016 07:17,Personal,Austin,Cambridge,16.7,Shopping
+31/01/2016 08:38,31/01/2016 09:48,Personal,Brooklyn,West Palm Beach,26.8,Conference
+28/02/2016 06:04,28/02/2016 06:17,Business,Atlanta,West Palm Beach,50.3,Visiting Friends
+06/02/2016 18:43,06/02/2016 19:52,Business,Fort Pierce,Fort Pierce,36.5,Conference
+27/11/2016 12:34,27/11/2016 13:41,Personal,Philadelphia,San Francisco,45.2,Networking Event
+14/06/2016 01:45,14/06/2016 02:26,Personal,Tempe,Tempe,15.7,Networking Event
+27/03/2016 15:33,27/03/2016 16:46,Business,San Diego,Dallas,42.1,Visiting Friends
+16/09/2016 12:37,16/09/2016 12:54,Personal,Orlando,Denver,60.0,Meal/Entertain
+16/12/2016 00:56,16/12/2016 01:20,Business,Irving,Cambridge,67.8,Entertainment
+29/04/2016 11:23,29/04/2016 11:32,Personal,Irving,Orlando,22.5,Networking Event
+23/12/2016 14:45,23/12/2016 16:09,Personal,Charlotte,Fort Pierce,52.8,Entertainment
+01/06/2016 11:43,01/06/2016 12:26,Business,Austin,Hollywood,66.9,Commute
+08/01/2016 16:27,08/01/2016 17:47,Personal,Philadelphia,Dallas,71.6,Commute
+10/09/2016 19:36,10/09/2016 20:47,Personal,San Diego,San Jose,54.1,Visiting Friends
+09/11/2016 03:02,09/11/2016 03:45,Business,Miami,La Jolla,4.9,Meal/Entertain
+12/03/2016 11:25,12/03/2016 12:03,Business,Denver,Charlotte,48.2,Partner Meeting
+23/06/2016 00:49,23/06/2016 01:04,Business,Orlando,Miami,53.3,Airport Drop-off
+13/06/2016 07:07,13/06/2016 07:14,Business,Orlando Airport,Los Angeles,64.1,Entertainment
+29/05/2016 23:43,30/05/2016 00:03,Personal,Dallas,Denver,46.7,Partner Meeting
+11/05/2016 13:29,11/05/2016 14:12,Personal,Dallas,San Jose,41.2,Commute
+06/07/2016 15:15,06/07/2016 16:27,Business,Bellevue,Austin,13.6,Shopping
+26/11/2016 00:22,26/11/2016 01:48,Business,Miami,Orlando Airport,33.6,Travel
+17/09/2016 18:08,17/09/2016 18:43,Personal,Fort Lauderdale,Fort Pierce,32.2,Shopping
+05/08/2016 02:26,05/08/2016 03:19,Personal,Orlando Airport,Philadelphia,30.8,Errand/Supplies
+12/12/2016 04:35,12/12/2016 06:04,Business,Orlando Airport,Las Vegas,65.5,Entertainment
+24/08/2016 12:02,24/08/2016 12:56,Personal,Atlanta,Philadelphia,28.4,Commute
+10/04/2016 20:48,10/04/2016 22:11,Business,Austin,Chicago,14.2,Meal/Entertain
+13/04/2016 03:42,13/04/2016 03:58,Personal,Irving,La Jolla,1.6,Airport Drop-off
+01/12/2016 20:56,01/12/2016 21:21,Business,Orlando Airport,Bellevue,47.3,Shopping
+20/01/2016 14:41,20/01/2016 15:42,Personal,Tempe,Miami Beach,18.9,Conference
+15/08/2016 10:37,15/08/2016 11:36,Business,Las Vegas,Charlotte,24.9,Airport Drop-off
+28/04/2016 10:14,28/04/2016 11:01,Business,Houston,San Jose,13.9,Entertainment
+06/01/2016 11:46,06/01/2016 12:08,Business,Tempe,Atlanta,52.3,Customer Visit
+24/05/2016 06:17,24/05/2016 06:47,Business,Dallas,Seattle,10.2,Meeting
+14/08/2016 14:42,14/08/2016 15:42,Business,Charlotte,Las Vegas,13.0,Meeting
+28/04/2016 16:28,28/04/2016 17:18,Business,Atlanta,Las Vegas,73.9,Customer Visit
+19/09/2016 04:17,19/09/2016 05:25,Personal,Phoenix,San Jose,36.7,Partner Meeting
+13/03/2016 08:53,13/03/2016 10:09,Business,San Francisco,Cambridge,46.5,Conference
+11/03/2016 10:21,11/03/2016 11:16,Personal,Charlotte,Bellevue,28.9,Meal/Entertain
+04/08/2016 23:31,05/08/2016 00:09,Personal,Houston,Charlotte,26.9,Meeting
+26/10/2016 04:30,26/10/2016 05:56,Personal,Brooklyn,Dallas,34.5,Meeting
+24/03/2016 22:25,24/03/2016 23:26,Business,Orlando,West Palm Beach,10.8,Networking Event
+02/09/2016 12:28,02/09/2016 13:52,Personal,San Jose,Irving,43.9,Meal/Entertain
+23/06/2016 02:21,23/06/2016 03:20,Personal,Hollywood,Orlando,50.1,Client Dinner
+10/12/2016 01:00,10/12/2016 01:55,Business,Cambridge,Los Angeles,70.5,Customer Visit
+29/08/2016 20:32,29/08/2016 21:19,Personal,Atlanta,Fort Pierce,14.2,Networking Event
+13/12/2016 22:14,13/12/2016 23:02,Personal,Boston,Bellevue,69.3,Networking Event
+14/03/2016 18:07,14/03/2016 19:31,Business,Denver,Boston,7.3,Team Event
+15/07/2016 17:08,15/07/2016 17:38,Personal,San Francisco,Hollywood,49.3,Shopping
+20/04/2016 11:09,20/04/2016 11:45,Business,Charlotte,San Diego,11.9,Shopping
+11/12/2016 13:34,11/12/2016 14:30,Business,Orlando Airport,West Palm Beach,32.5,
+29/01/2016 02:56,29/01/2016 04:10,Business,Orlando,Brooklyn,42.8,Conference
+23/02/2016 00:52,23/02/2016 01:36,Business,Philadelphia,Atlanta,39.2,Meal/Entertain
+27/11/2016 09:37,27/11/2016 10:24,Business,San Diego,San Diego,76.3,Errand/Supplies
+28/09/2016 12:19,28/09/2016 12:46,Business,Las Vegas,Austin,11.9,Errand/Supplies
+21/01/2016 07:57,21/01/2016 09:10,Business,Austin,Hollywood,48.9,
+02/08/2016 23:10,03/08/2016 00:22,Business,Brooklyn,San Francisco,20.5,Client Dinner
+29/09/2016 19:46,29/09/2016 21:07,Business,Atlanta,Seattle,36.5,Client Dinner
+16/05/2016 20:09,16/05/2016 21:07,Business,Boston,Los Angeles,2.0,Dinner
+18/12/2016 21:27,18/12/2016 22:19,Business,Boston,West Palm Beach,12.4,Partner Meeting
+22/08/2016 13:51,22/08/2016 15:15,Personal,Miami Beach,San Francisco,24.4,Team Event
+06/01/2016 04:35,06/01/2016 04:50,Business,New York,Fort Lauderdale,67.3,Airport Drop-off
+06/01/2016 18:07,06/01/2016 18:42,Business,Phoenix,West Palm Beach,67.3,Networking Event
+31/01/2016 12:02,31/01/2016 13:18,Personal,San Francisco,La Jolla,5.9,Airport Drop-off
+03/01/2016 20:18,03/01/2016 21:05,Business,Houston,Philadelphia,58.6,Partner Meeting
+22/06/2016 23:53,23/06/2016 00:34,Personal,San Diego,Fort Pierce,65.0,Partner Meeting
+18/01/2016 23:53,19/01/2016 01:06,Personal,New York,Tempe,22.5,Travel
+03/12/2016 10:34,03/12/2016 11:29,Personal,San Francisco,Philadelphia,70.3,Shopping
+06/12/2016 00:34,06/12/2016 00:39,Business,Brooklyn,Chicago,10.7,Shopping
+31/07/2016 07:58,31/07/2016 09:10,Business,Orlando,Houston,35.1,Dinner
+04/10/2016 01:55,04/10/2016 02:50,Business,Charlotte,Fort Pierce,64.0,Networking Event
+24/08/2016 23:52,25/08/2016 00:57,Business,Houston,Tempe,15.3,Shopping
+05/01/2016 02:45,05/01/2016 03:20,Business,Charlotte,San Francisco,3.5,Partner Meeting
+09/12/2016 10:40,09/12/2016 11:11,Business,San Francisco,Cambridge,50.8,Conference
+04/08/2016 21:27,04/08/2016 22:40,Business,Seattle,Denver,27.6,Shopping
+16/08/2016 19:11,16/08/2016 19:35,Business,Bellevue,San Diego,30.3,Meeting
+15/09/2016 14:12,15/09/2016 14:36,Personal,Orlando Airport,Austin,1.4,Meal/Entertain
+20/10/2016 08:35,20/10/2016 09:14,Personal,Houston,Hollywood,67.2,Travel
+10/04/2016 04:53,10/04/2016 05:54,Personal,Tempe,West Palm Beach,32.0,Entertainment
+01/11/2016 00:57,01/11/2016 01:57,Personal,Atlanta,Houston,68.2,Dinner
+02/02/2016 07:51,02/02/2016 08:37,Business,Austin,Atlanta,25.0,Entertainment
+24/01/2016 12:12,24/01/2016 13:32,Business,Atlanta,Austin,28.0,Visiting Friends
+17/04/2016 10:15,17/04/2016 11:21,Personal,San Diego,Boston,56.5,Customer Visit
+12/12/2016 01:55,12/12/2016 02:03,Personal,Seattle,West Palm Beach,44.2,Errand/Supplies
+14/07/2016 23:21,14/07/2016 23:30,Personal,San Francisco,Boston,55.7,Team Event
+17/07/2016 00:58,17/07/2016 02:25,Personal,Brooklyn,San Jose,15.9,Meal/Entertain
+05/05/2016 18:57,05/05/2016 19:06,Business,San Francisco,La Jolla,72.2,
+03/12/2016 07:23,03/12/2016 07:57,Business,San Francisco,Hollywood,34.3,Client Dinner
+21/07/2016 13:20,21/07/2016 14:42,Personal,Miami Beach,San Diego,56.2,Visiting Friends
+18/10/2016 18:21,18/10/2016 19:24,Business,Fort Pierce,San Diego,44.5,Customer Visit
+30/04/2016 05:01,30/04/2016 06:21,Personal,Atlanta,Los Angeles,56.5,Entertainment
+05/07/2016 02:34,05/07/2016 03:11,Business,San Francisco,Hollywood,69.9,Meal/Entertain
+06/01/2016 23:50,07/01/2016 00:19,Personal,Tempe,Seattle,6.3,Meal/Entertain
+19/01/2016 20:14,19/01/2016 21:40,Personal,Bellevue,San Jose,74.7,Meeting
+30/04/2016 10:42,30/04/2016 11:58,Personal,New York,San Jose,70.4,Meal/Entertain
+17/12/2016 00:13,17/12/2016 01:16,Business,Miami Beach,Bellevue,21.1,Meal/Entertain
+12/10/2016 15:00,12/10/2016 15:28,Business,Dallas,Fort Lauderdale,42.8,Dinner
+29/03/2016 14:20,29/03/2016 15:15,Personal,Hollywood,Fort Pierce,51.3,Client Dinner
+19/06/2016 18:52,19/06/2016 19:46,Business,Seattle,Dallas,17.2,Visiting Friends
+09/11/2016 23:08,09/11/2016 23:30,Personal,San Jose,La Jolla,5.9,Dinner
+04/03/2016 19:15,04/03/2016 19:25,Personal,Hollywood,Austin,34.1,Errand/Supplies
+24/09/2016 01:42,24/09/2016 02:10,Business,Chicago,San Diego,75.4,Team Event
+28/09/2016 01:00,28/09/2016 01:13,Business,Houston,Bellevue,15.0,Commute
+02/05/2016 21:50,02/05/2016 22:55,Business,Irving,Los Angeles,3.2,Client Dinner
+30/09/2016 03:04,30/09/2016 03:38,Personal,Irving,Phoenix,24.7,Shopping
+08/05/2016 17:47,08/05/2016 18:24,Personal,Tempe,Boston,39.4,Visiting Friends
+25/05/2016 22:55,25/05/2016 23:44,Personal,Irving,New York,36.4,Meeting
+25/10/2016 00:01,25/10/2016 00:56,Personal,Dallas,Philadelphia,53.0,Airport Drop-off
+11/09/2016 19:31,11/09/2016 20:33,Personal,La Jolla,San Francisco,3.3,Shopping
+28/10/2016 17:06,28/10/2016 18:13,Personal,Miami,Miami Beach,28.2,Conference
+30/11/2016 23:20,01/12/2016 00:24,Personal,Tempe,New York,3.1,Shopping
+06/07/2016 04:27,06/07/2016 04:38,Personal,Austin,San Diego,31.5,Networking Event
+14/01/2016 20:33,14/01/2016 21:04,Business,Hollywood,Houston,32.1,Conference
+19/03/2016 22:42,20/03/2016 00:00,Personal,Denver,West Palm Beach,33.4,Client Dinner
+16/04/2016 08:20,16/04/2016 09:10,Business,Tempe,Fort Lauderdale,21.5,Partner Meeting
+30/10/2016 23:44,31/10/2016 00:58,Personal,Cambridge,Brooklyn,13.0,Partner Meeting
+18/02/2016 08:57,18/02/2016 09:57,Personal,Miami Beach,Chicago,11.8,Travel
+16/08/2016 06:02,16/08/2016 06:17,Personal,Phoenix,New York,45.8,
+21/07/2016 03:32,21/07/2016 03:42,Business,Dallas,Dallas,29.3,Meeting
+25/12/2016 17:44,25/12/2016 18:49,Personal,Tempe,Boston,76.8,Team Event
+29/09/2016 00:02,29/09/2016 00:47,Business,San Diego,Hollywood,8.7,Commute
+13/03/2016 14:28,13/03/2016 14:42,Personal,San Jose,West Palm Beach,18.1,Team Event
+12/05/2016 11:24,12/05/2016 11:34,Business,Orlando Airport,Miami,8.0,Travel
+26/09/2016 23:06,26/09/2016 23:31,Personal,Orlando Airport,San Francisco,71.0,Client Dinner
+20/06/2016 04:19,20/06/2016 05:29,Personal,Fort Pierce,Fort Lauderdale,22.5,Visiting Friends
+22/06/2016 09:39,22/06/2016 10:25,Business,Tempe,Charlotte,36.4,Visiting Friends
+31/03/2016 20:42,31/03/2016 20:57,Personal,Boston,La Jolla,11.1,Visiting Friends
+07/12/2016 08:17,07/12/2016 09:39,Personal,La Jolla,West Palm Beach,40.7,Client Dinner
+03/11/2016 07:02,03/11/2016 08:18,Business,Brooklyn,Las Vegas,12.6,Dinner
+19/02/2016 08:32,19/02/2016 09:42,Business,San Francisco,West Palm Beach,3.3,
+09/08/2016 03:23,09/08/2016 04:29,Business,La Jolla,Atlanta,19.6,Shopping
+14/09/2016 17:09,14/09/2016 17:42,Personal,Chicago,Boston,1.4,Partner Meeting
+25/11/2016 01:57,25/11/2016 03:27,Business,Atlanta,Charlotte,39.2,Commute
+02/11/2016 01:52,02/11/2016 02:28,Personal,Fort Lauderdale,Chicago,51.0,Team Event
+15/02/2016 17:32,15/02/2016 18:11,Business,Houston,Las Vegas,59.2,Client Dinner
+19/12/2016 23:56,20/12/2016 01:07,Personal,Bellevue,West Palm Beach,34.5,Customer Visit
+12/02/2016 17:40,12/02/2016 18:05,Business,Cambridge,La Jolla,31.2,Team Event
+16/01/2016 14:29,16/01/2016 15:39,Business,La Jolla,San Jose,59.2,Dinner
+31/03/2016 22:34,31/03/2016 22:42,Business,Cambridge,San Francisco,38.0,Shopping
+07/04/2016 13:48,07/04/2016 14:30,Personal,Atlanta,Los Angeles,34.7,Meal/Entertain
+26/04/2016 06:13,26/04/2016 06:47,Personal,Las Vegas,Boston,12.7,Partner Meeting
+09/01/2016 02:01,09/01/2016 03:05,Business,Irving,San Francisco,54.1,Dinner
+19/08/2016 20:25,19/08/2016 20:57,Personal,Orlando Airport,Fort Pierce,59.3,Commute
+12/12/2016 13:59,12/12/2016 15:07,Personal,San Francisco,Dallas,70.9,Shopping
+14/05/2016 22:25,14/05/2016 23:42,Business,Miami Beach,Los Angeles,49.4,Visiting Friends
+10/04/2016 08:03,10/04/2016 08:41,Personal,La Jolla,New York,62.6,Team Event
+13/01/2016 21:59,13/01/2016 22:31,Personal,New York,Orlando Airport,46.4,Team Event
+10/03/2016 19:01,10/03/2016 20:12,Business,San Francisco,Chicago,1.3,Airport Drop-off
+01/03/2016 20:02,01/03/2016 20:10,Personal,Houston,Bellevue,44.6,Networking Event
+01/09/2016 09:35,01/09/2016 09:42,Personal,Houston,Orlando Airport,27.6,Meeting
+19/04/2016 02:51,19/04/2016 03:13,Personal,Dallas,Philadelphia,64.1,Shopping
+31/01/2016 12:20,31/01/2016 12:45,Personal,Tempe,Orlando,18.5,Visiting Friends
+08/03/2016 19:23,08/03/2016 20:02,Personal,San Francisco,Hollywood,25.2,Airport Drop-off
+18/07/2016 00:09,18/07/2016 01:29,Business,Phoenix,Dallas,70.6,Entertainment
+21/08/2016 22:28,21/08/2016 23:03,Personal,San Diego,Austin,74.2,Conference
+23/07/2016 04:32,23/07/2016 04:44,Personal,Cambridge,San Jose,44.6,Team Event
+24/11/2016 14:16,24/11/2016 14:59,Business,San Francisco,Philadelphia,79.5,Conference
+13/09/2016 03:09,13/09/2016 04:04,Business,Boston,Miami,65.2,Airport Drop-off
+10/12/2016 13:45,10/12/2016 15:08,Business,Houston,Hollywood,43.7,Errand/Supplies
+18/12/2016 14:05,18/12/2016 15:18,Business,Irving,Austin,43.8,Errand/Supplies
+14/09/2016 06:53,14/09/2016 08:22,Business,La Jolla,Chicago,73.8,Networking Event
+17/01/2016 13:36,17/01/2016 14:02,Business,Cambridge,New York,45.7,
+13/05/2016 03:11,13/05/2016 04:23,Personal,Orlando Airport,Cambridge,22.4,Conference
+18/08/2016 13:11,18/08/2016 14:39,Personal,San Jose,Philadelphia,68.9,Client Dinner
+12/12/2016 13:20,12/12/2016 13:30,Personal,Phoenix,Hollywood,30.6,Conference
+21/12/2016 04:00,21/12/2016 04:30,Business,Miami,Boston,36.4,Customer Visit
+01/04/2016 07:14,01/04/2016 08:13,Business,Philadelphia,Brooklyn,47.4,Networking Event
+02/03/2016 01:57,02/03/2016 02:37,Business,Orlando Airport,Seattle,10.8,Partner Meeting
+05/09/2016 01:27,05/09/2016 01:52,Business,Las Vegas,San Francisco,45.3,Commute
+15/12/2016 20:52,15/12/2016 21:28,Personal,Seattle,Fort Lauderdale,73.1,Meal/Entertain
+29/07/2016 15:50,29/07/2016 15:59,Personal,San Francisco,Chicago,57.5,Entertainment
+08/03/2016 22:23,08/03/2016 23:14,Personal,Las Vegas,San Jose,57.1,
+17/06/2016 02:05,17/06/2016 03:15,Personal,Austin,Houston,7.9,Entertainment
+15/12/2016 10:26,15/12/2016 11:06,Business,Boston,San Francisco,29.1,Team Event
+23/10/2016 20:35,23/10/2016 21:46,Business,Irving,Cambridge,35.2,Networking Event
+20/03/2016 20:03,20/03/2016 20:21,Business,La Jolla,Chicago,3.4,Networking Event
+19/11/2016 11:57,19/11/2016 13:25,Personal,Las Vegas,New York,16.9,Customer Visit
+05/04/2016 05:45,05/04/2016 06:09,Personal,Seattle,Houston,20.3,Shopping
+14/10/2016 19:35,14/10/2016 20:54,Personal,San Diego,Fort Lauderdale,75.3,Visiting Friends
+07/05/2016 06:25,07/05/2016 07:06,Personal,Atlanta,Denver,31.5,Travel
+06/04/2016 02:51,06/04/2016 03:45,Personal,Atlanta,Cambridge,2.4,Shopping
+05/11/2016 01:42,05/11/2016 02:41,Personal,San Jose,Hollywood,14.2,Airport Drop-off
+01/06/2016 02:27,01/06/2016 03:26,Business,Fort Pierce,Denver,23.4,Customer Visit
+18/01/2016 06:53,18/01/2016 07:10,Business,Miami Beach,Chicago,26.3,Networking Event
+11/12/2016 17:13,11/12/2016 18:34,Personal,Fort Pierce,Brooklyn,11.2,Team Event
+02/04/2016 04:57,02/04/2016 05:50,Business,Cambridge,Philadelphia,60.9,Entertainment
+22/05/2016 05:03,22/05/2016 05:55,Business,La Jolla,Phoenix,22.2,Partner Meeting
+08/02/2016 23:57,09/02/2016 00:23,Business,West Palm Beach,Orlando Airport,64.7,Team Event
+06/12/2016 00:58,06/12/2016 01:20,Personal,Bellevue,San Francisco,14.8,Networking Event
+07/04/2016 08:17,07/04/2016 09:36,Business,Miami Beach,Philadelphia,76.1,Errand/Supplies
+02/01/2016 21:07,02/01/2016 21:30,Personal,Las Vegas,San Francisco,2.2,Airport Drop-off
+12/06/2016 22:37,13/06/2016 00:04,Business,Charlotte,Austin,38.4,Networking Event
+10/02/2016 02:02,10/02/2016 02:19,Personal,Tempe,Denver,43.7,Shopping
+20/09/2016 08:51,20/09/2016 09:44,Business,Chicago,Las Vegas,74.1,Conference
+19/11/2016 17:23,19/11/2016 18:03,Personal,Dallas,Boston,37.7,Commute
+05/01/2016 11:06,05/01/2016 12:15,Personal,Chicago,Orlando,9.8,Visiting Friends
+10/12/2016 06:02,10/12/2016 06:58,Business,Dallas,Los Angeles,65.3,Meeting
+29/08/2016 20:14,29/08/2016 20:25,Personal,Dallas,Seattle,51.1,Partner Meeting
+15/03/2016 04:47,15/03/2016 05:14,Personal,Orlando Airport,Austin,2.7,Conference
+01/06/2016 04:45,01/06/2016 05:23,Business,Philadelphia,Cambridge,23.5,Airport Drop-off
+22/10/2016 01:09,22/10/2016 01:48,Business,Brooklyn,Irving,12.2,Dinner
+15/06/2016 22:43,15/06/2016 22:52,Personal,West Palm Beach,Phoenix,32.2,Team Event
+21/06/2016 10:43,21/06/2016 12:11,Personal,Phoenix,Charlotte,48.9,Errand/Supplies
+25/01/2016 11:08,25/01/2016 11:27,Business,Tempe,Orlando,62.1,Meeting
+19/06/2016 05:16,19/06/2016 06:01,Personal,Orlando,Hollywood,68.8,Customer Visit
+15/09/2016 17:47,15/09/2016 18:25,Business,Cambridge,Las Vegas,4.5,Entertainment
+01/04/2016 00:26,01/04/2016 00:50,Business,Boston,Chicago,5.9,Dinner
+12/02/2016 12:48,12/02/2016 13:56,Personal,Cambridge,Orlando,32.4,Networking Event
+12/05/2016 12:24,12/05/2016 12:39,Business,Miami Beach,Orlando Airport,57.9,Visiting Friends
+18/10/2016 19:32,18/10/2016 20:29,Business,Miami,Atlanta,26.8,Networking Event
+11/07/2016 11:48,11/07/2016 12:39,Business,San Diego,Boston,2.5,Team Event
+14/03/2016 05:17,14/03/2016 05:34,Business,Denver,Brooklyn,42.7,Shopping
+05/08/2016 05:19,05/08/2016 06:42,Business,La Jolla,Phoenix,11.1,Meal/Entertain
+14/02/2016 14:27,14/02/2016 14:51,Business,Boston,West Palm Beach,47.9,Commute
+07/03/2016 20:54,07/03/2016 21:40,Business,Tempe,Philadelphia,68.7,Customer Visit
+11/04/2016 23:32,12/04/2016 00:34,Personal,Denver,Austin,13.1,Networking Event
+14/12/2016 06:36,14/12/2016 07:38,Personal,San Jose,Orlando,22.8,Meal/Entertain
+20/04/2016 12:41,20/04/2016 14:10,Business,Miami,Fort Lauderdale,65.1,Commute
+22/06/2016 07:16,22/06/2016 08:35,Personal,Hollywood,San Jose,16.9,Conference
+24/02/2016 16:41,24/02/2016 17:05,Business,Charlotte,Boston,68.0,Visiting Friends
+07/10/2016 07:01,07/10/2016 07:07,Business,Orlando Airport,Seattle,34.7,Shopping
+23/02/2016 06:37,23/02/2016 06:42,Personal,Charlotte,Philadelphia,52.4,Networking Event
+14/09/2016 12:59,14/09/2016 13:16,Business,San Jose,Atlanta,52.7,Conference
+21/10/2016 21:43,21/10/2016 22:25,Business,Denver,West Palm Beach,40.3,Networking Event
+12/10/2016 20:29,12/10/2016 21:48,Personal,New York,Seattle,34.8,Customer Visit
+25/10/2016 22:31,25/10/2016 22:47,Business,La Jolla,Cambridge,61.2,Airport Drop-off
+01/03/2016 11:55,01/03/2016 12:18,Personal,Irving,San Francisco,39.7,Conference
+26/01/2016 02:00,26/01/2016 02:44,Business,Boston,Orlando Airport,79.4,Networking Event
+12/10/2016 14:34,12/10/2016 14:56,Personal,Fort Pierce,Austin,58.8,Conference
+27/02/2016 12:19,27/02/2016 12:51,Business,Fort Lauderdale,La Jolla,54.8,Team Event
+24/06/2016 23:08,24/06/2016 23:31,Personal,West Palm Beach,Seattle,15.0,Conference
+04/01/2016 21:33,04/01/2016 22:06,Personal,La Jolla,Hollywood,26.2,Airport Drop-off
+18/01/2016 13:27,18/01/2016 14:35,Personal,San Jose,La Jolla,2.9,Client Dinner
+22/08/2016 05:28,22/08/2016 06:11,Business,Fort Pierce,San Diego,73.9,Partner Meeting
+27/04/2016 09:41,27/04/2016 10:29,Personal,Philadelphia,Phoenix,27.4,Conference
+11/06/2016 23:30,12/06/2016 00:20,Business,Miami,Dallas,14.1,Meal/Entertain
+20/08/2016 10:03,20/08/2016 11:06,Personal,Fort Lauderdale,San Francisco,37.2,Partner Meeting
+16/02/2016 02:45,16/02/2016 03:30,Business,San Diego,Chicago,6.0,Partner Meeting
+11/02/2016 07:48,11/02/2016 08:02,Personal,La Jolla,West Palm Beach,78.7,
+28/09/2016 01:28,28/09/2016 02:42,Business,Fort Lauderdale,Bellevue,63.0,Conference
+13/08/2016 15:16,13/08/2016 16:34,Personal,Hollywood,Fort Pierce,20.7,Airport Drop-off
+20/03/2016 08:45,20/03/2016 10:09,Business,Denver,Denver,58.9,Meeting
+18/08/2016 17:38,18/08/2016 18:56,Personal,Cambridge,San Francisco,34.4,Entertainment
+09/07/2016 04:42,09/07/2016 06:12,Business,Los Angeles,San Diego,61.0,Entertainment
+22/04/2016 16:45,22/04/2016 17:02,Business,San Jose,Charlotte,69.4,Customer Visit
+11/02/2016 15:19,11/02/2016 16:18,Business,Tempe,Fort Pierce,41.5,Partner Meeting
+30/06/2016 15:11,30/06/2016 16:01,Personal,Orlando Airport,Los Angeles,18.7,Conference
+03/11/2016 17:12,03/11/2016 18:26,Business,Hollywood,Irving,24.9,Shopping
+03/06/2016 11:28,03/06/2016 11:52,Business,Philadelphia,Atlanta,13.4,Shopping
+14/01/2016 15:52,14/01/2016 16:48,Personal,Miami,Austin,35.1,Airport Drop-off
+20/12/2016 20:58,20/12/2016 21:53,Personal,Denver,Miami Beach,9.7,Dinner
+10/07/2016 08:32,10/07/2016 08:47,Business,Philadelphia,Phoenix,43.0,Travel
+14/02/2016 03:43,14/02/2016 05:09,Personal,Miami Beach,Tempe,19.7,Dinner
+09/07/2016 16:20,09/07/2016 17:30,Personal,Fort Pierce,Dallas,22.3,Client Dinner
+01/11/2016 10:22,01/11/2016 11:19,Business,New York,Fort Pierce,54.9,Visiting Friends
+22/09/2016 05:53,22/09/2016 06:54,Business,Fort Lauderdale,Miami,13.0,
+21/05/2016 09:50,21/05/2016 10:18,Personal,Miami,San Francisco,5.0,Travel
+01/10/2016 20:00,01/10/2016 20:57,Business,West Palm Beach,Tempe,31.9,
+01/12/2016 16:05,01/12/2016 16:12,Personal,La Jolla,Philadelphia,59.0,Meal/Entertain
+01/06/2016 10:19,01/06/2016 10:32,Personal,Los Angeles,La Jolla,34.0,Travel
+21/05/2016 08:08,21/05/2016 09:21,Personal,Seattle,Fort Lauderdale,10.6,Airport Drop-off
+23/12/2016 23:55,24/12/2016 00:34,Personal,Cambridge,Boston,70.0,Meal/Entertain
+22/02/2016 22:16,22/02/2016 23:27,Business,Seattle,Denver,25.6,
+19/11/2016 18:11,19/11/2016 19:34,Business,Dallas,San Diego,63.2,Airport Drop-off
+15/07/2016 14:16,15/07/2016 14:53,Personal,Boston,Miami Beach,49.4,Dinner
+25/07/2016 17:07,25/07/2016 17:39,Business,Tempe,Las Vegas,59.3,Travel
+27/02/2016 02:27,27/02/2016 02:43,Personal,Los Angeles,Chicago,68.8,Meeting
+10/05/2016 19:56,10/05/2016 20:22,Personal,West Palm Beach,Las Vegas,9.5,Customer Visit
+03/03/2016 05:42,03/03/2016 05:55,Business,Dallas,Boston,27.9,Errand/Supplies
+07/11/2016 21:06,07/11/2016 21:27,Business,West Palm Beach,Orlando,21.1,Customer Visit
+12/03/2016 17:04,12/03/2016 17:23,Business,West Palm Beach,Seattle,53.2,Commute
+30/05/2016 17:31,30/05/2016 17:38,Personal,San Diego,Houston,2.1,Partner Meeting
+26/08/2016 00:36,26/08/2016 00:53,Business,Denver,Fort Pierce,63.8,
+28/07/2016 13:02,28/07/2016 13:09,Business,Hollywood,Chicago,38.8,Travel
+21/01/2016 09:49,21/01/2016 11:10,Business,La Jolla,Bellevue,56.0,Customer Visit
+15/06/2016 14:47,15/06/2016 15:11,Personal,San Jose,San Jose,29.2,Partner Meeting
+26/04/2016 10:39,26/04/2016 11:47,Personal,Fort Pierce,New York,49.9,Errand/Supplies
+07/05/2016 03:45,07/05/2016 04:04,Business,Las Vegas,Atlanta,25.7,Client Dinner
+26/02/2016 14:15,26/02/2016 14:24,Business,Boston,Bellevue,48.5,Entertainment
+11/03/2016 09:35,11/03/2016 09:56,Personal,Chicago,San Francisco,16.2,Partner Meeting
+30/10/2016 22:14,30/10/2016 22:50,Business,Orlando Airport,Orlando,59.9,Partner Meeting
+16/09/2016 16:54,16/09/2016 17:17,Business,San Jose,Los Angeles,63.4,Dinner
+07/09/2016 23:00,08/09/2016 00:21,Personal,Denver,Houston,13.3,
+10/07/2016 03:33,10/07/2016 04:47,Business,San Jose,Charlotte,60.5,Entertainment
+08/07/2016 12:14,08/07/2016 13:32,Personal,Bellevue,Philadelphia,14.0,Travel
+19/11/2016 17:33,19/11/2016 17:41,Business,Seattle,San Jose,14.4,Airport Drop-off
+07/01/2016 15:40,07/01/2016 16:59,Business,New York,Austin,44.7,Conference
+06/10/2016 10:48,06/10/2016 12:05,Personal,West Palm Beach,Miami,17.1,
+26/01/2016 20:28,26/01/2016 20:56,Business,Miami Beach,Miami,5.0,
+15/06/2016 18:53,15/06/2016 19:02,Personal,Las Vegas,New York,73.8,Meal/Entertain
+28/08/2016 16:16,28/08/2016 17:36,Business,Orlando,Seattle,59.8,Networking Event
+05/05/2016 03:09,05/05/2016 03:19,Personal,Phoenix,Brooklyn,44.8,Networking Event
+12/06/2016 20:53,12/06/2016 21:32,Business,Dallas,New York,43.0,Entertainment
+10/08/2016 22:21,10/08/2016 22:47,Business,Seattle,Phoenix,72.3,Meeting
+09/05/2016 16:04,09/05/2016 16:11,Business,Phoenix,Philadelphia,5.5,Conference
+10/05/2016 01:01,10/05/2016 02:12,Personal,Brooklyn,Los Angeles,35.9,Travel
+30/09/2016 22:16,30/09/2016 22:59,Business,Orlando,Irving,13.7,Visiting Friends
+21/05/2016 13:28,21/05/2016 14:44,Business,Dallas,Philadelphia,78.4,Shopping
+27/06/2016 15:03,27/06/2016 15:53,Personal,Hollywood,San Francisco,18.4,Team Event
+24/05/2016 16:14,24/05/2016 16:43,Personal,San Francisco,Orlando Airport,2.0,Meal/Entertain
+14/06/2016 10:19,14/06/2016 11:34,Business,Las Vegas,La Jolla,5.1,Shopping
+05/08/2016 04:21,05/08/2016 05:35,Personal,San Francisco,Houston,25.9,Meeting
+01/01/2016 20:27,01/01/2016 21:16,Personal,Boston,Orlando,49.5,Customer Visit
+21/02/2016 15:04,21/02/2016 16:06,Business,Fort Lauderdale,Orlando Airport,15.3,Visiting Friends
+23/03/2016 18:13,23/03/2016 19:24,Personal,San Francisco,Miami Beach,74.6,Meal/Entertain
+27/06/2016 12:40,27/06/2016 13:15,Business,Miami Beach,Irving,8.3,Commute
+24/06/2016 00:23,24/06/2016 01:40,Personal,Boston,Las Vegas,37.0,
+15/10/2016 03:12,15/10/2016 03:31,Personal,Tempe,Fort Lauderdale,19.8,Travel
+24/10/2016 04:30,24/10/2016 05:46,Business,Orlando,Cambridge,9.1,
+08/10/2016 11:06,08/10/2016 11:19,Business,Fort Lauderdale,Orlando Airport,54.5,Airport Drop-off
+29/09/2016 19:15,29/09/2016 20:19,Business,Houston,Phoenix,65.0,Partner Meeting
+18/10/2016 12:27,18/10/2016 13:05,Business,Atlanta,Dallas,7.8,Travel
+08/01/2016 10:37,08/01/2016 10:59,Personal,San Jose,Chicago,31.2,Airport Drop-off
+25/12/2016 01:20,25/12/2016 02:38,Personal,Las Vegas,San Jose,15.4,Entertainment
+10/09/2016 22:50,10/09/2016 23:48,Personal,Bellevue,Orlando Airport,11.9,Commute
+25/12/2016 04:41,25/12/2016 05:47,Personal,San Diego,Brooklyn,22.2,Errand/Supplies
+23/10/2016 04:29,23/10/2016 05:48,Personal,Fort Pierce,Los Angeles,53.1,Travel
+26/08/2016 11:25,26/08/2016 12:06,Personal,Hollywood,Philadelphia,18.3,Partner Meeting
+05/04/2016 09:30,05/04/2016 09:45,Personal,Austin,Fort Pierce,31.8,
+05/11/2016 10:06,05/11/2016 10:49,Personal,Miami,Miami Beach,29.0,Shopping
+05/12/2016 14:39,05/12/2016 15:57,Personal,Houston,Denver,57.1,Meal/Entertain
+08/03/2016 11:51,08/03/2016 13:21,Personal,Charlotte,Phoenix,28.9,
+18/01/2016 18:28,18/01/2016 19:29,Business,Irving,Dallas,63.0,
+28/11/2016 06:20,28/11/2016 06:59,Personal,San Francisco,Las Vegas,57.4,Networking Event
+25/06/2016 11:58,25/06/2016 12:21,Personal,Miami Beach,San Francisco,22.1,Customer Visit
+08/06/2016 12:25,08/06/2016 13:34,Personal,Los Angeles,Bellevue,60.8,Client Dinner
+09/04/2016 22:53,09/04/2016 23:54,Business,San Jose,San Francisco,6.0,Conference
+16/04/2016 05:32,16/04/2016 06:50,Personal,San Jose,Orlando,69.8,
+03/09/2016 21:36,03/09/2016 23:04,Business,San Diego,Miami,14.2,Shopping
+19/09/2016 16:59,19/09/2016 18:17,Personal,Seattle,Miami Beach,59.1,Customer Visit
+07/03/2016 06:51,07/03/2016 07:30,Business,New York,San Jose,64.2,Dinner
+12/01/2016 21:17,12/01/2016 22:04,Business,Los Angeles,Brooklyn,70.8,Networking Event
+28/10/2016 15:23,28/10/2016 16:00,Business,Los Angeles,San Jose,72.1,Errand/Supplies
+18/04/2016 04:10,18/04/2016 04:26,Personal,La Jolla,Charlotte,57.5,Shopping
+30/06/2016 02:10,30/06/2016 03:31,Business,La Jolla,Chicago,69.2,Team Event
+26/01/2016 18:13,26/01/2016 18:55,Business,Irving,San Francisco,17.9,Networking Event
+12/01/2016 10:02,12/01/2016 10:46,Business,Miami Beach,Bellevue,59.7,Networking Event
+16/02/2016 02:49,16/02/2016 02:56,Business,Tempe,Miami,65.9,Conference
+02/03/2016 05:44,02/03/2016 06:05,Personal,Orlando,Atlanta,68.6,Visiting Friends
+30/08/2016 06:23,30/08/2016 07:25,Business,Hollywood,La Jolla,41.4,Customer Visit
+11/08/2016 08:39,11/08/2016 08:46,Personal,Houston,Philadelphia,78.7,Visiting Friends
+04/09/2016 00:56,04/09/2016 01:20,Personal,San Francisco,Cambridge,57.2,Dinner
+13/03/2016 12:35,13/03/2016 13:47,Personal,Fort Lauderdale,San Jose,42.3,Airport Drop-off
+29/10/2016 09:07,29/10/2016 09:36,Business,West Palm Beach,West Palm Beach,2.7,Team Event
+25/02/2016 14:05,25/02/2016 14:30,Business,San Jose,Philadelphia,72.0,Team Event
+11/01/2016 04:42,11/01/2016 05:26,Personal,Charlotte,Houston,8.7,Errand/Supplies
+25/03/2016 13:46,25/03/2016 15:11,Personal,Bellevue,Irving,3.8,Dinner
+30/03/2016 02:00,30/03/2016 02:38,Personal,Irving,Bellevue,34.1,Dinner
+08/12/2016 16:11,08/12/2016 16:45,Personal,Phoenix,Cambridge,8.0,Commute
+09/10/2016 18:37,09/10/2016 19:13,Personal,Brooklyn,Los Angeles,28.2,Commute
+22/03/2016 16:48,22/03/2016 17:22,Personal,Irving,La Jolla,60.3,Partner Meeting
+29/01/2016 01:34,29/01/2016 02:54,Business,Orlando,West Palm Beach,62.3,Conference
+27/12/2016 15:02,27/12/2016 15:45,Personal,San Francisco,San Francisco,79.1,Airport Drop-off
+17/01/2016 17:57,17/01/2016 18:47,Personal,New York,Seattle,80.0,Team Event
+23/03/2016 01:25,23/03/2016 02:10,Personal,Miami,New York,79.6,Partner Meeting
+13/08/2016 14:51,13/08/2016 15:14,Personal,Las Vegas,Las Vegas,71.7,Travel
+08/02/2016 12:17,08/02/2016 13:34,Personal,Orlando Airport,Philadelphia,9.7,Airport Drop-off
+28/07/2016 22:05,28/07/2016 22:11,Personal,Hollywood,Phoenix,33.0,Commute
+13/06/2016 15:49,13/06/2016 16:31,Personal,Chicago,Atlanta,60.3,Team Event
+22/08/2016 22:19,22/08/2016 22:44,Business,San Jose,New York,75.7,Customer Visit
+08/02/2016 06:30,08/02/2016 06:47,Personal,Irving,New York,22.4,Meeting
+23/05/2016 04:49,23/05/2016 05:40,Business,Chicago,West Palm Beach,1.2,Partner Meeting
+15/03/2016 19:01,15/03/2016 19:09,Personal,Bellevue,Irving,15.6,Dinner
+03/10/2016 12:36,03/10/2016 13:52,Personal,Atlanta,Denver,32.0,Meal/Entertain
+30/09/2016 21:27,30/09/2016 22:53,Personal,Hollywood,Bellevue,44.2,Networking Event
+31/05/2016 01:46,31/05/2016 03:03,Business,Fort Pierce,Seattle,72.9,Dinner
+10/02/2016 03:34,10/02/2016 03:54,Business,Seattle,Atlanta,2.3,Entertainment
+07/01/2016 22:38,07/01/2016 22:52,Business,San Jose,Fort Pierce,61.2,Meeting
+28/04/2016 00:25,28/04/2016 00:37,Business,Orlando,La Jolla,11.8,Travel
+15/10/2016 22:21,15/10/2016 23:05,Personal,Brooklyn,Chicago,58.1,Meeting
+27/06/2016 23:31,28/06/2016 00:46,Personal,Chicago,Chicago,69.4,Shopping
+29/02/2016 01:10,29/02/2016 02:12,Personal,New York,Miami Beach,24.8,
+01/10/2016 22:51,01/10/2016 23:33,Personal,Houston,Orlando,57.4,Commute
+21/09/2016 16:44,21/09/2016 16:58,Personal,San Diego,Miami,6.5,Errand/Supplies
+02/12/2016 11:28,02/12/2016 11:46,Personal,Cambridge,San Diego,68.5,
+03/06/2016 09:55,03/06/2016 11:19,Personal,Charlotte,Orlando Airport,49.4,Visiting Friends
+24/02/2016 17:16,24/02/2016 18:18,Personal,Orlando,Miami,30.9,
+07/04/2016 04:41,07/04/2016 05:57,Business,Phoenix,Houston,64.9,Partner Meeting
+30/03/2016 23:41,31/03/2016 01:05,Personal,Brooklyn,San Francisco,13.3,Errand/Supplies
+10/07/2016 18:04,10/07/2016 19:26,Business,San Jose,San Jose,68.9,Commute
+16/05/2016 04:32,16/05/2016 04:45,Business,West Palm Beach,Austin,50.3,Conference
+16/05/2016 17:48,16/05/2016 18:42,Business,Irving,New York,57.2,Commute
+18/12/2016 20:53,18/12/2016 21:59,Personal,Cambridge,West Palm Beach,76.1,Partner Meeting
+23/02/2016 21:07,23/02/2016 21:30,Personal,Austin,Brooklyn,5.7,Airport Drop-off
+11/04/2016 06:58,11/04/2016 08:12,Personal,Denver,Houston,16.4,Customer Visit
+29/06/2016 22:37,29/06/2016 23:57,Business,West Palm Beach,Cambridge,5.8,
+18/03/2016 06:17,18/03/2016 06:53,Personal,Chicago,San Francisco,15.3,Conference
+20/07/2016 01:15,20/07/2016 01:30,Business,San Jose,Fort Pierce,53.1,Commute
+25/01/2016 08:09,25/01/2016 08:15,Personal,Fort Lauderdale,Philadelphia,18.0,Visiting Friends
+19/04/2016 01:57,19/04/2016 02:07,Business,Charlotte,Atlanta,60.2,Shopping
+02/04/2016 13:05,02/04/2016 14:20,Personal,Tempe,San Jose,37.5,Client Dinner
+19/05/2016 18:46,19/05/2016 19:06,Business,Denver,Brooklyn,58.7,Client Dinner
+30/12/2016 07:06,30/12/2016 07:35,Personal,Boston,Chicago,75.8,Team Event
+16/03/2016 17:29,16/03/2016 18:51,Business,Dallas,Irving,4.5,Meeting
+10/03/2016 17:39,10/03/2016 18:09,Personal,Houston,Phoenix,29.6,Visiting Friends
+31/03/2016 18:24,31/03/2016 19:24,Business,Denver,San Francisco,48.1,Networking Event
+22/03/2016 06:44,22/03/2016 07:14,Business,Las Vegas,Seattle,29.0,Networking Event
+24/11/2016 03:49,24/11/2016 04:54,Business,San Diego,Denver,74.9,Customer Visit
+14/08/2016 02:34,14/08/2016 03:14,Business,Miami Beach,Bellevue,4.3,
+17/10/2016 03:50,17/10/2016 04:54,Personal,San Francisco,Orlando Airport,34.4,Airport Drop-off
+09/02/2016 08:48,09/02/2016 09:53,Business,Denver,Charlotte,1.2,Customer Visit
+11/01/2016 10:56,11/01/2016 12:07,Personal,West Palm Beach,Los Angeles,68.4,Meal/Entertain
+19/03/2016 12:02,19/03/2016 12:45,Business,Hollywood,West Palm Beach,45.1,Team Event
+26/04/2016 21:15,26/04/2016 22:33,Business,Miami,Irving,58.9,Travel
+25/08/2016 15:47,25/08/2016 16:08,Business,Bellevue,Orlando Airport,46.7,Shopping
+07/11/2016 20:00,07/11/2016 20:38,Personal,Fort Lauderdale,Bellevue,6.0,Entertainment
+16/11/2016 03:56,16/11/2016 04:18,Business,Las Vegas,Boston,49.1,Meal/Entertain
+22/12/2016 17:17,22/12/2016 18:01,Business,West Palm Beach,Miami,31.6,Meeting
+16/07/2016 21:57,16/07/2016 22:10,Personal,Las Vegas,Charlotte,24.3,Errand/Supplies
+03/03/2016 01:50,03/03/2016 02:33,Personal,San Francisco,Brooklyn,24.3,Networking Event
+06/09/2016 15:15,06/09/2016 16:18,Personal,Cambridge,Chicago,5.9,Shopping
+23/06/2016 12:18,23/06/2016 12:30,Business,Tempe,San Diego,10.5,Airport Drop-off
+05/01/2016 06:04,05/01/2016 06:46,Personal,Orlando Airport,Austin,73.4,
+04/08/2016 03:43,04/08/2016 04:30,Business,Brooklyn,West Palm Beach,78.2,Dinner
+14/03/2016 10:06,14/03/2016 11:21,Business,Cambridge,Fort Pierce,3.1,
+18/03/2016 07:35,18/03/2016 08:19,Personal,Orlando Airport,Phoenix,54.4,Entertainment
+29/01/2016 13:50,29/01/2016 14:14,Personal,San Jose,Orlando,20.3,Airport Drop-off
+22/06/2016 00:54,22/06/2016 01:46,Business,Denver,Fort Pierce,3.1,Entertainment
+25/08/2016 23:25,26/08/2016 00:34,Personal,Miami,San Jose,32.2,Client Dinner
+09/08/2016 21:58,09/08/2016 22:13,Personal,Houston,Boston,52.5,Commute
+12/08/2016 13:21,12/08/2016 13:44,Personal,Atlanta,Los Angeles,49.7,Partner Meeting
+18/10/2016 16:49,18/10/2016 17:06,Business,Chicago,Dallas,23.4,Partner Meeting
+08/11/2016 18:09,08/11/2016 18:34,Personal,Miami,Phoenix,34.7,Customer Visit
+04/02/2016 17:41,04/02/2016 18:24,Personal,Hollywood,Atlanta,75.5,Client Dinner
+16/05/2016 00:28,16/05/2016 00:34,Business,New York,San Francisco,53.5,Dinner
+25/12/2016 07:49,25/12/2016 08:17,Business,Chicago,San Jose,49.9,Customer Visit
+09/02/2016 20:17,09/02/2016 20:35,Personal,Tempe,Philadelphia,54.1,Shopping
+29/02/2016 19:09,29/02/2016 20:19,Business,San Diego,Brooklyn,20.9,Errand/Supplies
+18/01/2016 11:33,18/01/2016 11:47,Business,San Francisco,Miami,23.7,Dinner
+02/05/2016 05:00,02/05/2016 05:13,Business,Houston,Boston,25.8,Travel
+24/09/2016 16:34,24/09/2016 17:43,Business,La Jolla,Fort Lauderdale,13.1,Meal/Entertain
+08/05/2016 14:46,08/05/2016 15:38,Personal,Bellevue,Dallas,13.1,Airport Drop-off
+04/12/2016 08:12,04/12/2016 09:18,Personal,San Francisco,San Jose,60.7,Team Event
+13/01/2016 13:57,13/01/2016 15:02,Business,San Francisco,San Francisco,76.8,Team Event
+02/09/2016 07:11,02/09/2016 07:26,Business,San Francisco,Charlotte,10.4,Partner Meeting
+25/09/2016 16:54,25/09/2016 17:34,Business,Las Vegas,Las Vegas,57.1,Partner Meeting
+26/03/2016 05:47,26/03/2016 06:08,Personal,Bellevue,La Jolla,18.3,Client Dinner
+04/12/2016 02:33,04/12/2016 03:00,Personal,Bellevue,Miami Beach,71.0,
+10/02/2016 23:42,11/02/2016 00:14,Business,Boston,San Jose,26.1,Shopping
+28/01/2016 17:00,28/01/2016 17:09,Personal,Boston,San Francisco,33.6,Meal/Entertain
+06/01/2016 06:46,06/01/2016 07:07,Personal,Austin,San Francisco,33.4,Travel
+23/03/2016 09:27,23/03/2016 10:43,Business,Miami,Cambridge,2.4,
+09/11/2016 03:03,09/11/2016 03:32,Business,Las Vegas,New York,7.0,Conference
+10/07/2016 04:45,10/07/2016 05:26,Personal,Miami,Philadelphia,61.0,Errand/Supplies
+09/12/2016 21:07,09/12/2016 22:06,Personal,Denver,Seattle,70.9,Visiting Friends
+20/04/2016 17:30,20/04/2016 18:27,Personal,Hollywood,San Francisco,62.9,Commute
+22/10/2016 02:13,22/10/2016 02:19,Personal,Seattle,Charlotte,9.1,Visiting Friends
+03/03/2016 09:15,03/03/2016 10:11,Personal,Cambridge,San Francisco,43.1,Partner Meeting
+02/09/2016 04:08,02/09/2016 05:24,Personal,Las Vegas,Dallas,42.5,Meal/Entertain
+14/10/2016 15:35,14/10/2016 15:46,Business,Charlotte,Miami,73.5,Partner Meeting
+30/05/2016 03:17,30/05/2016 04:36,Personal,Dallas,Denver,12.3,Team Event
+19/03/2016 06:12,19/03/2016 07:14,Personal,La Jolla,Cambridge,21.7,Dinner
+07/04/2016 18:13,07/04/2016 19:39,Business,Denver,New York,42.1,Partner Meeting
+17/10/2016 23:01,18/10/2016 00:11,Personal,San Francisco,Boston,58.7,Meal/Entertain
+24/03/2016 10:36,24/03/2016 11:33,Personal,Bellevue,Fort Lauderdale,44.2,Travel
+29/12/2016 22:12,29/12/2016 22:40,Personal,Atlanta,New York,57.2,Travel
+04/02/2016 03:17,04/02/2016 03:57,Personal,Boston,Irving,52.4,Client Dinner
+03/07/2016 04:42,03/07/2016 05:10,Business,Brooklyn,San Jose,43.8,Shopping
+04/01/2016 22:14,04/01/2016 23:31,Personal,Fort Pierce,San Jose,14.4,Meeting
+06/07/2016 18:12,06/07/2016 19:01,Business,Tempe,Los Angeles,12.7,Customer Visit
+28/08/2016 01:04,28/08/2016 02:06,Business,San Jose,Fort Pierce,54.0,Dinner
+01/10/2016 17:34,01/10/2016 19:02,Personal,Miami,La Jolla,60.2,Shopping
+02/09/2016 09:06,02/09/2016 09:43,Personal,Boston,Tempe,51.8,Meal/Entertain
+30/01/2016 20:34,30/01/2016 21:47,Personal,Orlando Airport,La Jolla,61.5,Conference
+16/04/2016 12:31,16/04/2016 13:13,Personal,Cambridge,Dallas,2.2,Shopping
+24/08/2016 04:14,24/08/2016 04:38,Personal,Fort Lauderdale,Las Vegas,57.7,Networking Event
+29/01/2016 23:42,29/01/2016 23:56,Personal,San Jose,Miami,17.2,Client Dinner
+30/05/2016 15:01,30/05/2016 15:23,Personal,San Diego,Charlotte,45.6,Visiting Friends
+27/01/2016 06:06,27/01/2016 06:47,Business,Irving,New York,60.0,Meal/Entertain
+09/10/2016 10:56,09/10/2016 12:10,Personal,Tempe,Fort Pierce,18.8,
+09/10/2016 07:06,09/10/2016 07:34,Business,Philadelphia,Houston,31.2,Team Event
+23/03/2016 16:43,23/03/2016 17:57,Personal,Orlando Airport,Bellevue,64.9,Team Event
+29/01/2016 03:58,29/01/2016 05:08,Personal,Fort Pierce,Atlanta,24.3,Client Dinner
+15/11/2016 10:02,15/11/2016 11:24,Business,La Jolla,West Palm Beach,56.8,Travel
+17/02/2016 16:07,17/02/2016 16:59,Business,Phoenix,Bellevue,32.4,Networking Event
+15/05/2016 22:56,15/05/2016 23:42,Personal,Austin,San Diego,66.1,Airport Drop-off
+21/11/2016 18:06,21/11/2016 18:12,Personal,Miami,Miami Beach,37.4,Visiting Friends
+20/07/2016 13:30,20/07/2016 14:17,Personal,Philadelphia,Houston,48.1,Visiting Friends
+03/04/2016 11:01,03/04/2016 11:18,Business,Chicago,Austin,47.8,Partner Meeting
+25/08/2016 18:32,25/08/2016 20:02,Business,San Diego,San Francisco,16.6,Partner Meeting
+16/05/2016 19:57,16/05/2016 20:52,Personal,San Jose,Philadelphia,1.9,Meeting
+31/08/2016 18:47,31/08/2016 20:12,Personal,Miami,Chicago,74.6,Errand/Supplies
+14/07/2016 04:07,14/07/2016 04:32,Business,Tempe,Miami,38.6,Visiting Friends
+10/05/2016 18:07,10/05/2016 19:21,Business,Bellevue,San Diego,52.4,Meal/Entertain
+15/02/2016 09:16,15/02/2016 09:51,Business,Miami,Brooklyn,11.0,Travel
+11/09/2016 19:52,11/09/2016 21:19,Business,Denver,Seattle,18.2,Networking Event
+20/03/2016 19:47,20/03/2016 20:56,Personal,Dallas,Miami,56.3,Meal/Entertain
+18/09/2016 21:39,18/09/2016 22:57,Business,Houston,Brooklyn,28.6,Travel
+20/03/2016 08:58,20/03/2016 09:08,Business,Miami Beach,Charlotte,44.0,Commute
+14/10/2016 08:39,14/10/2016 09:56,Business,Las Vegas,Orlando Airport,36.9,Commute
+04/12/2016 02:01,04/12/2016 02:28,Business,Orlando Airport,Philadelphia,69.2,Customer Visit
+21/08/2016 18:33,21/08/2016 19:32,Personal,Dallas,Seattle,59.8,Visiting Friends
+10/12/2016 13:24,10/12/2016 14:44,Business,Bellevue,Charlotte,69.9,Dinner
+22/11/2016 01:31,22/11/2016 02:09,Business,Austin,Bellevue,15.8,Meal/Entertain
+01/09/2016 11:21,01/09/2016 11:34,Personal,La Jolla,Cambridge,51.5,Team Event
+04/05/2016 21:16,04/05/2016 22:00,Personal,Fort Lauderdale,San Jose,15.2,Customer Visit
+25/04/2016 00:26,25/04/2016 01:38,Business,Miami Beach,San Diego,64.7,Shopping
+29/03/2016 05:26,29/03/2016 05:55,Business,Chicago,Phoenix,54.9,Meeting
+03/03/2016 17:57,03/03/2016 19:01,Personal,Seattle,San Diego,63.4,Client Dinner
+25/04/2016 11:38,25/04/2016 13:07,Personal,West Palm Beach,Fort Lauderdale,43.5,
+10/06/2016 12:54,10/06/2016 13:29,Business,Seattle,Fort Pierce,46.8,Dinner
+19/01/2016 08:51,19/01/2016 09:06,Business,San Diego,Bellevue,55.6,Conference
+12/10/2016 01:06,12/10/2016 02:15,Personal,Miami Beach,West Palm Beach,39.4,Travel
+16/04/2016 02:22,16/04/2016 03:38,Personal,Irving,San Jose,76.2,Dinner
+31/07/2016 20:28,31/07/2016 21:58,Personal,New York,Seattle,78.4,Customer Visit
+26/07/2016 23:37,27/07/2016 00:24,Personal,Houston,Denver,32.3,Team Event
+12/04/2016 04:35,12/04/2016 05:36,Personal,Orlando,Orlando,10.0,Meal/Entertain
+21/08/2016 10:19,21/08/2016 11:48,Business,Boston,New York,30.2,Errand/Supplies
+16/09/2016 16:55,16/09/2016 17:51,Business,Orlando,Tempe,10.0,Team Event
+29/12/2016 14:15,29/12/2016 14:39,Business,Dallas,Austin,48.3,Team Event
+03/06/2016 01:45,03/06/2016 03:12,Personal,San Francisco,San Jose,23.3,Customer Visit
+14/09/2016 08:46,14/09/2016 09:08,Business,Miami Beach,Cambridge,50.3,Dinner
+01/08/2016 20:17,01/08/2016 21:03,Business,Chicago,Seattle,50.9,Entertainment
+25/09/2016 22:58,26/09/2016 00:02,Business,Charlotte,Miami Beach,27.1,Customer Visit
+09/12/2016 19:19,09/12/2016 19:45,Personal,Phoenix,Bellevue,19.6,Visiting Friends
+01/05/2016 16:41,01/05/2016 17:41,Business,Cambridge,Charlotte,10.2,Networking Event
+13/12/2016 05:35,13/12/2016 06:20,Personal,Miami,Philadelphia,15.9,Customer Visit
+16/10/2016 01:35,16/10/2016 01:56,Personal,Philadelphia,Orlando Airport,73.2,Meeting
+22/11/2016 21:14,22/11/2016 21:29,Business,Tempe,Houston,64.6,Meal/Entertain
+14/07/2016 01:19,14/07/2016 02:33,Business,Denver,Dallas,14.2,Travel
+26/01/2016 06:54,26/01/2016 07:46,Business,Brooklyn,Fort Lauderdale,30.8,Partner Meeting
+20/06/2016 04:11,20/06/2016 05:25,Personal,Chicago,Seattle,62.2,Team Event
+07/03/2016 08:44,07/03/2016 09:20,Personal,Austin,Denver,3.9,Meal/Entertain
+13/05/2016 20:11,13/05/2016 21:37,Business,Fort Lauderdale,Seattle,45.9,Meeting
+07/12/2016 02:47,07/12/2016 03:49,Business,La Jolla,Phoenix,8.2,Meeting
+28/07/2016 12:34,28/07/2016 13:12,Personal,Cambridge,Los Angeles,16.0,Client Dinner
+22/12/2016 09:24,22/12/2016 10:09,Personal,Fort Pierce,West Palm Beach,56.8,Meeting
+19/05/2016 15:46,19/05/2016 16:33,Personal,Austin,Miami,19.0,Entertainment
+02/10/2016 12:09,02/10/2016 12:53,Business,Fort Pierce,Tempe,27.3,Airport Drop-off
+30/01/2016 06:59,30/01/2016 08:07,Business,La Jolla,Hollywood,22.4,Errand/Supplies
+20/04/2016 17:46,20/04/2016 18:07,Business,Miami Beach,Cambridge,33.2,Entertainment
+10/12/2016 18:54,10/12/2016 19:30,Business,Miami Beach,Cambridge,14.7,Conference
+12/07/2016 13:18,12/07/2016 13:55,Personal,Phoenix,Fort Pierce,45.6,Travel
+17/06/2016 21:42,17/06/2016 23:02,Personal,Miami,Atlanta,74.5,Visiting Friends
+07/12/2016 10:13,07/12/2016 11:35,Personal,La Jolla,Tempe,72.5,Commute
+25/06/2016 17:28,25/06/2016 18:35,Business,West Palm Beach,Irving,36.9,Airport Drop-off
+12/07/2016 02:53,12/07/2016 04:04,Business,Boston,Atlanta,30.3,Meal/Entertain
+29/08/2016 22:15,29/08/2016 23:43,Personal,San Jose,San Diego,14.6,Errand/Supplies
+24/11/2016 11:06,24/11/2016 12:07,Business,Miami,Los Angeles,69.9,Dinner
+18/03/2016 19:30,18/03/2016 20:25,Personal,Orlando Airport,Irving,58.2,Visiting Friends
+04/06/2016 13:57,04/06/2016 14:37,Business,Los Angeles,Dallas,66.9,Airport Drop-off
+09/01/2016 07:39,09/01/2016 08:43,Personal,West Palm Beach,Fort Pierce,37.7,Partner Meeting
+31/10/2016 13:12,31/10/2016 14:23,Business,Brooklyn,Orlando Airport,5.0,Partner Meeting
+20/09/2016 09:30,20/09/2016 10:25,Business,Brooklyn,Orlando,60.4,Partner Meeting
+31/07/2016 15:34,31/07/2016 16:25,Business,Charlotte,Denver,79.2,Meeting
+03/10/2016 00:51,03/10/2016 01:37,Business,San Francisco,San Jose,52.2,Dinner
+04/01/2016 22:54,05/01/2016 00:24,Business,Fort Lauderdale,Orlando Airport,38.1,Dinner
+20/07/2016 12:31,20/07/2016 13:35,Personal,Denver,La Jolla,29.2,Client Dinner
+13/07/2016 19:29,13/07/2016 19:58,Business,Los Angeles,New York,23.0,Partner Meeting
+08/01/2016 19:50,08/01/2016 21:02,Personal,Los Angeles,Boston,48.9,Meal/Entertain
+31/07/2016 19:51,31/07/2016 20:04,Business,Los Angeles,La Jolla,52.3,Airport Drop-off
+26/08/2016 20:51,26/08/2016 22:00,Business,San Diego,Brooklyn,23.5,Customer Visit
+22/09/2016 01:19,22/09/2016 01:35,Personal,San Jose,Phoenix,35.5,Networking Event
+17/06/2016 00:19,17/06/2016 01:20,Business,Hollywood,Houston,69.4,Travel
+07/01/2016 16:37,07/01/2016 18:02,Personal,Seattle,Philadelphia,42.3,Travel
+22/07/2016 02:56,22/07/2016 04:21,Business,Las Vegas,Seattle,75.9,Dinner
+27/12/2016 17:43,27/12/2016 18:56,Business,Houston,Orlando,78.1,Meeting
+19/04/2016 23:23,20/04/2016 00:42,Personal,San Jose,San Francisco,10.3,Conference
+17/03/2016 05:56,17/03/2016 06:45,Business,San Francisco,Philadelphia,49.9,Meal/Entertain
+02/02/2016 20:13,02/02/2016 21:20,Business,Austin,New York,50.9,Entertainment
+29/06/2016 18:02,29/06/2016 19:14,Personal,Las Vegas,Las Vegas,75.4,
+04/03/2016 01:01,04/03/2016 02:06,Business,Atlanta,Denver,74.8,Customer Visit
+16/02/2016 15:03,16/02/2016 16:25,Personal,San Francisco,Irving,42.6,Meal/Entertain
+08/06/2016 14:31,08/06/2016 15:29,Business,Brooklyn,San Jose,64.5,Partner Meeting
+24/03/2016 11:24,24/03/2016 11:57,Business,Cambridge,Tempe,71.1,Conference
+10/05/2016 23:50,11/05/2016 00:29,Business,Phoenix,Las Vegas,52.6,Commute
+31/01/2016 00:06,31/01/2016 00:38,Personal,Irving,La Jolla,6.6,Airport Drop-off
+26/10/2016 20:43,26/10/2016 21:49,Business,Brooklyn,San Francisco,35.9,Travel
+29/05/2016 11:44,29/05/2016 13:09,Business,Philadelphia,Orlando,23.2,Team Event
+08/10/2016 14:11,08/10/2016 14:43,Business,Los Angeles,Denver,46.4,
+21/07/2016 01:08,21/07/2016 01:23,Personal,San Francisco,Hollywood,18.0,Travel
+10/08/2016 20:17,10/08/2016 21:36,Business,Miami Beach,Phoenix,14.1,Conference
+22/09/2016 02:17,22/09/2016 02:35,Personal,Atlanta,Miami,48.9,Entertainment
+06/09/2016 23:28,07/09/2016 00:38,Business,Seattle,Philadelphia,3.1,Team Event
+14/09/2016 04:58,14/09/2016 05:55,Business,Boston,Los Angeles,14.1,Meeting
+30/07/2016 04:00,30/07/2016 04:12,Business,Philadelphia,Houston,59.4,Meal/Entertain
+15/05/2016 06:15,15/05/2016 07:45,Business,Seattle,Chicago,47.8,Team Event
+09/06/2016 08:57,09/06/2016 09:46,Business,San Diego,San Francisco,17.5,Customer Visit
+20/05/2016 10:33,20/05/2016 11:54,Personal,La Jolla,West Palm Beach,53.8,Shopping
+29/03/2016 05:11,29/03/2016 05:47,Business,Denver,Seattle,36.4,Entertainment
+09/10/2016 21:55,09/10/2016 22:12,Personal,San Jose,Fort Pierce,23.7,Team Event
+21/06/2016 11:08,21/06/2016 12:17,Personal,Charlotte,Cambridge,36.3,Meal/Entertain
+13/12/2016 20:08,13/12/2016 20:45,Personal,New York,Bellevue,17.7,Shopping
+05/10/2016 16:03,05/10/2016 16:27,Business,Brooklyn,Miami,12.3,Conference
+18/12/2016 12:36,18/12/2016 13:36,Business,Orlando Airport,San Francisco,7.5,Errand/Supplies
+18/03/2016 20:32,18/03/2016 21:45,Business,Orlando Airport,Hollywood,8.1,Entertainment
+10/11/2016 23:56,11/11/2016 00:10,Personal,Dallas,Irving,52.1,
+29/08/2016 04:22,29/08/2016 04:46,Business,Hollywood,Denver,18.2,Entertainment
+25/07/2016 11:45,25/07/2016 11:53,Business,Austin,West Palm Beach,40.1,Meeting
+28/09/2016 08:42,28/09/2016 10:02,Personal,Dallas,Cambridge,58.3,Networking Event
+31/08/2016 16:39,31/08/2016 17:34,Business,Fort Lauderdale,Tempe,23.7,Meeting
+24/05/2016 15:30,24/05/2016 16:57,Business,Seattle,San Francisco,55.9,
+25/01/2016 13:59,25/01/2016 15:08,Personal,Charlotte,New York,46.5,Airport Drop-off
+12/06/2016 18:08,12/06/2016 19:32,Personal,Irving,Orlando Airport,56.8,Client Dinner
+12/10/2016 13:47,12/10/2016 14:05,Business,Chicago,Chicago,43.4,Errand/Supplies
+22/11/2016 01:39,22/11/2016 02:14,Business,New York,Las Vegas,66.7,Meeting
+24/03/2016 04:50,24/03/2016 05:04,Personal,Dallas,San Jose,34.0,Conference
+05/10/2016 20:52,05/10/2016 21:02,Business,Dallas,Bellevue,13.2,Team Event
+29/07/2016 00:43,29/07/2016 02:11,Business,Brooklyn,Charlotte,6.5,Errand/Supplies
+07/10/2016 02:22,07/10/2016 03:03,Business,Houston,Fort Pierce,16.1,Errand/Supplies
+12/07/2016 03:49,12/07/2016 04:02,Personal,Denver,Philadelphia,30.2,Visiting Friends
+15/01/2016 14:47,15/01/2016 14:52,Business,Chicago,Charlotte,63.0,Partner Meeting
+25/01/2016 11:19,25/01/2016 11:40,Business,Bellevue,La Jolla,33.5,Conference
+02/08/2016 01:50,02/08/2016 02:28,Business,San Francisco,Atlanta,71.1,Client Dinner
+08/06/2016 20:10,08/06/2016 21:03,Business,San Jose,Brooklyn,11.3,Errand/Supplies
+01/01/2016 11:10,01/01/2016 11:40,Business,Brooklyn,Boston,58.7,Meeting
+02/07/2016 09:02,02/07/2016 09:14,Personal,West Palm Beach,Houston,58.2,Dinner
+09/02/2016 09:50,09/02/2016 11:02,Business,Boston,Denver,38.7,Networking Event
+14/11/2016 00:23,14/11/2016 00:42,Personal,Hollywood,Bellevue,16.3,Conference
+29/07/2016 07:05,29/07/2016 07:39,Business,Charlotte,Los Angeles,2.2,Errand/Supplies
+21/02/2016 01:24,21/02/2016 02:40,Personal,Austin,Boston,44.6,
+16/06/2016 19:10,16/06/2016 20:36,Business,San Francisco,Fort Pierce,42.2,Entertainment
+09/12/2016 15:29,09/12/2016 16:08,Business,Boston,Denver,72.0,Errand/Supplies
+20/03/2016 12:15,20/03/2016 12:33,Personal,Brooklyn,Houston,52.2,Dinner
+18/11/2016 12:35,18/11/2016 12:50,Personal,Fort Pierce,Philadelphia,36.6,Errand/Supplies
+04/11/2016 08:30,04/11/2016 09:19,Business,San Jose,San Francisco,47.8,Client Dinner
+09/04/2016 02:00,09/04/2016 03:12,Business,Philadelphia,Irving,32.3,Entertainment
+17/08/2016 12:05,17/08/2016 13:21,Business,Los Angeles,San Francisco,18.5,
+13/07/2016 10:17,13/07/2016 10:27,Personal,Fort Lauderdale,Cambridge,39.2,Conference
+14/05/2016 11:49,14/05/2016 12:51,Business,San Francisco,Los Angeles,73.9,Errand/Supplies
+10/05/2016 10:26,10/05/2016 11:29,Business,Phoenix,Hollywood,60.8,
+16/10/2016 18:02,16/10/2016 18:07,Business,La Jolla,La Jolla,21.5,
+26/12/2016 23:43,27/12/2016 01:07,Business,Las Vegas,Philadelphia,41.1,Shopping
+01/03/2016 01:18,01/03/2016 02:02,Business,New York,San Diego,44.0,Travel
+25/06/2016 03:05,25/06/2016 04:32,Business,Miami Beach,Denver,65.1,Errand/Supplies
+01/05/2016 02:44,01/05/2016 03:43,Personal,La Jolla,Cambridge,18.8,Partner Meeting
+12/02/2016 21:42,12/02/2016 22:03,Personal,West Palm Beach,Fort Lauderdale,21.5,Dinner
+23/01/2016 04:57,23/01/2016 05:11,Personal,Fort Lauderdale,San Diego,57.3,Airport Drop-off
+19/06/2016 17:19,19/06/2016 17:46,Personal,Irving,Bellevue,4.0,Shopping
+24/03/2016 22:36,24/03/2016 23:41,Personal,Brooklyn,Cambridge,59.7,Dinner
