@@ -14,16 +14,18 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     category,
-# MAGIC     COUNT(*) AS total_corridas,
-# MAGIC     ROUND(
-# MAGIC         COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 
-# MAGIC         2
-# MAGIC     ) AS proporcao_percentual
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC GROUP BY category
+df1 = spark.sql(
+"""
+SELECT 
+    category,
+    COUNT(*) AS total_corridas,
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS proporcao_percentual
+FROM workspace.default.uber_trips
+GROUP BY category
+"""
+)
+
+df1.write.mode("overwrite").saveAsTable("workspace.default.uber_perfil_corridas_1")
 
 # COMMAND ----------
 
@@ -35,14 +37,19 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     category,
-# MAGIC     COUNT(*) AS total_corridas,
-# MAGIC     ROUND(SUM(miles), 2) AS total_miles,
-# MAGIC     ROUND(AVG(miles), 2) AS media_miles
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC GROUP BY category;
+df2 = spark.sql(
+"""
+SELECT 
+    category,
+    COUNT(*) AS total_corridas,
+    ROUND(SUM(miles), 2) AS total_miles,
+    ROUND(AVG(miles), 2) AS media_miles
+FROM workspace.default.uber_trips
+GROUP BY category
+"""
+)
+
+df2.write.mode("overwrite").saveAsTable("workspace.default.uber_perfil_corridas_2")
 
 # COMMAND ----------
 
@@ -52,17 +59,22 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     category,
-# MAGIC     ROUND(
-# MAGIC         AVG(
-# MAGIC             (UNIX_TIMESTAMP(TO_TIMESTAMP(end_date, 'dd/MM/yyyy HH:mm')) 
-# MAGIC             - UNIX_TIMESTAMP(TO_TIMESTAMP(start_date, 'dd/MM/yyyy HH:mm'))) / 60
-# MAGIC         ), 2
-# MAGIC     ) AS media_duracao_minutos
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC GROUP BY category;
+df3 = spark.sql(
+"""
+SELECT 
+    category,
+    ROUND(
+        AVG(
+            (UNIX_TIMESTAMP(TO_TIMESTAMP(end_date, 'dd/MM/yyyy HH:mm')) 
+            - UNIX_TIMESTAMP(TO_TIMESTAMP(start_date, 'dd/MM/yyyy HH:mm'))) / 60
+        ), 2
+    ) AS media_duracao_minutos
+FROM workspace.default.uber_trips
+GROUP BY category
+"""
+)
+
+df3.write.mode("overwrite").saveAsTable("workspace.default.uber_perfil_corridas_3")
 
 # COMMAND ----------
 
@@ -72,12 +84,17 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     category,
-# MAGIC     ROUND(AVG(miles), 2) AS media_miles
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC GROUP BY category;
+df4 = spark.sql(
+"""
+SELECT 
+    category,
+    ROUND(AVG(miles), 2) AS media_miles
+FROM workspace.default.uber_trips
+GROUP BY category
+"""
+)
+
+df4.write.mode("overwrite").saveAsTable("workspace.default.uber_distancia_custos_1")
 
 # COMMAND ----------
 
@@ -89,16 +106,20 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     start,
-# MAGIC     stop,
-# MAGIC     AVG(miles) AS media_milhas
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC GROUP BY start, stop
-# MAGIC ORDER BY media_milhas DESC
-# MAGIC LIMIT 10;
-# MAGIC
+df5 = spark.sql(
+"""
+SELECT 
+    start,
+    stop,
+    AVG(miles) AS media_milhas
+FROM workspace.default.uber_trips
+GROUP BY start, stop
+ORDER BY media_milhas DESC
+LIMIT 10
+"""
+)
+
+df5.write.mode("overwrite").saveAsTable("workspace.default.uber_distancia_custos_2")
 
 # COMMAND ----------
 
@@ -109,16 +130,21 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     start,
-# MAGIC     stop,
-# MAGIC     COUNT(*) AS total_corridas
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC GROUP BY start, stop
-# MAGIC HAVING COUNT(*) > 1
-# MAGIC ORDER BY total_corridas DESC
-# MAGIC LIMIT 10;
+df6 = spark.sql(
+"""
+SELECT 
+    start,
+    stop,
+    COUNT(*) AS total_corridas
+FROM workspace.default.uber_trips
+GROUP BY start, stop
+HAVING COUNT(*) > 1
+ORDER BY total_corridas DESC
+LIMIT 10
+"""
+)
+
+df6.write.mode("overwrite").saveAsTable("workspace.default.uber_distancia_custos_3")
 
 # COMMAND ----------
 
@@ -128,14 +154,19 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     DATE_FORMAT(TO_TIMESTAMP(start_date, 'dd/MM/yyyy HH:mm'), 'EEEE') AS dia_semana,
-# MAGIC     COUNT(*) AS total_corridas
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC WHERE category = 'Business'
-# MAGIC GROUP BY DATE_FORMAT(TO_TIMESTAMP(start_date, 'dd/MM/yyyy HH:mm'), 'EEEE')
-# MAGIC ORDER BY total_corridas DESC;
+df7 = spark.sql(
+"""
+SELECT 
+    DATE_FORMAT(TO_TIMESTAMP(start_date, 'dd/MM/yyyy HH:mm'), 'EEEE') AS dia_semana,
+    COUNT(*) AS total_corridas
+FROM workspace.default.uber_trips
+WHERE category = 'Business'
+GROUP BY DATE_FORMAT(TO_TIMESTAMP(start_date, 'dd/MM/yyyy HH:mm'), 'EEEE')
+ORDER BY total_corridas DESC;
+"""
+)
+
+df7.write.mode("overwrite").saveAsTable("workspace.default.uber_padroes_temporais_1")
 
 # COMMAND ----------
 
@@ -145,14 +176,19 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     category,
-# MAGIC     HOUR(TO_TIMESTAMP(start_date, 'dd/MM/yyyy HH:mm')) AS hora_corrida,
-# MAGIC     COUNT(*) AS total_corridas
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC GROUP BY category, hora_corrida
-# MAGIC ORDER BY category, total_corridas DESC;
+df8 = spark.sql(
+"""
+SELECT 
+    category,
+    HOUR(TO_TIMESTAMP(start_date, 'dd/MM/yyyy HH:mm')) AS hora_corrida,
+    COUNT(*) AS total_corridas
+FROM workspace.default.uber_trips
+GROUP BY category, hora_corrida
+ORDER BY category, total_corridas DESC
+"""
+)
+
+df8.write.mode("overwrite").saveAsTable("workspace.default.uber_padroes_temporais_2")
 
 # COMMAND ----------
 
@@ -162,14 +198,18 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     DATE_FORMAT(TO_TIMESTAMP(start_date, 'dd/MM/yyyy HH:mm'), 'MMMM') AS mes_corrida,
-# MAGIC     COUNT(*) AS total_corridas
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC GROUP BY mes_corrida
-# MAGIC ORDER BY total_corridas DESC;
-# MAGIC
+df9= spark.sql(
+"""
+SELECT 
+    DATE_FORMAT(TO_TIMESTAMP(start_date, 'dd/MM/yyyy HH:mm'), 'MMMM') AS mes_corrida,
+    COUNT(*) AS total_corridas
+FROM workspace.default.uber_trips
+GROUP BY mes_corrida
+ORDER BY total_corridas DESC
+"""
+)
+
+df9.write.mode("overwrite").saveAsTable("workspace.default.uber_padroes_temporais_3")
 
 # COMMAND ----------
 
@@ -179,14 +219,19 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     purpose,
-# MAGIC     COUNT(*) AS total_corridas
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC WHERE category = 'Business'
-# MAGIC GROUP BY purpose
-# MAGIC ORDER BY total_corridas DESC
+df10 = spark.sql(
+"""
+SELECT 
+    purpose,
+    COUNT(*) AS total_corridas
+FROM workspace.default.uber_trips
+WHERE category = 'Business'
+GROUP BY purpose
+ORDER BY total_corridas DESC
+"""
+)
+
+df10.write.mode("overwrite").saveAsTable("workspace.default.uber_proposito_viagens_1")
 
 # COMMAND ----------
 
@@ -196,14 +241,19 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     purpose,
-# MAGIC     COUNT(*) AS total_corridas
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC WHERE category = 'Personal'
-# MAGIC GROUP BY purpose
-# MAGIC ORDER BY total_corridas DESC
+df11 = spark.sql(
+"""
+SELECT 
+    purpose,
+    COUNT(*) AS total_corridas
+FROM workspace.default.uber_trips
+WHERE category = 'Personal'
+GROUP BY purpose
+ORDER BY total_corridas DESC
+"""
+)
+
+df11.write.mode("overwrite").saveAsTable("workspace.default.uber_proposito_viagens_2")
 
 # COMMAND ----------
 
@@ -213,16 +263,21 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     purpose,
-# MAGIC     COUNT(*) AS total_corridas,
-# MAGIC     ROUND(SUM(miles), 2) AS total_milhas,
-# MAGIC     ROUND(AVG(miles), 2) AS media_milhas,
-# MAGIC     MAX(miles) AS maior_corrida
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC GROUP BY purpose
-# MAGIC ORDER BY media_milhas DESC
+df12 = spark.sql(
+"""
+SELECT 
+    purpose,
+    COUNT(*) AS total_corridas,
+    ROUND(SUM(miles), 2) AS total_milhas,
+    ROUND(AVG(miles), 2) AS media_milhas,
+    MAX(miles) AS maior_corrida
+FROM workspace.default.uber_trips
+GROUP BY purpose
+ORDER BY media_milhas DESC
+"""
+)
+
+df12.write.mode("overwrite").saveAsTable("workspace.default.uber_proposito_viagens_3")
 
 # COMMAND ----------
 
@@ -233,16 +288,21 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     start,
-# MAGIC     stop,
-# MAGIC     purpose,
-# MAGIC     miles
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC WHERE category = 'Business'
-# MAGIC ORDER BY miles DESC 
-# MAGIC LIMIT 10;
+df13 = spark.sql(
+"""
+SELECT 
+    start,
+    stop,
+    purpose,
+    miles
+FROM workspace.default.uber_trips
+WHERE category = 'Business'
+ORDER BY miles DESC 
+LIMIT 10
+"""
+)
+
+df13.write.mode("overwrite").saveAsTable("workspace.default.uber_eficiencia_estrategia_1")
 
 # COMMAND ----------
 
@@ -252,18 +312,23 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     start AS cidade,
-# MAGIC     purpose,
-# MAGIC     COUNT(*) AS total_corridas,
-# MAGIC     ROUND(AVG(miles), 2) AS media_milhas
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC WHERE category = 'Business'
-# MAGIC   AND start = stop
-# MAGIC   AND miles < 20
-# MAGIC GROUP BY start, purpose
-# MAGIC ORDER BY total_corridas DESC;
+df14 = spark.sql(
+"""
+SELECT 
+    start AS cidade,
+    purpose,
+    COUNT(*) AS total_corridas,
+    ROUND(AVG(miles), 2) AS media_milhas
+FROM workspace.default.uber_trips
+WHERE category = 'Business'
+  AND start = stop
+  AND miles < 20
+GROUP BY start, purpose
+ORDER BY total_corridas DESC
+"""
+)
+
+df14.write.mode("overwrite").saveAsTable("workspace.default.uber_eficiencia_estrategia_2")
 
 # COMMAND ----------
 
@@ -273,12 +338,26 @@
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC SELECT 
-# MAGIC     start,
-# MAGIC     COUNT(*) AS total_corridas 
-# MAGIC FROM workspace.default.uber_trips
-# MAGIC WHERE category = 'Business' 
-# MAGIC GROUP BY start 
-# MAGIC ORDER BY total_corridas DESC
-# MAGIC LIMIT 20;
+df15 = spark.sql(
+"""
+SELECT 
+    start,
+    COUNT(*) AS total_corridas 
+FROM workspace.default.uber_trips
+WHERE category = 'Business' 
+GROUP BY start 
+ORDER BY total_corridas DESC
+LIMIT 20
+"""
+)
+
+df15.write.mode("overwrite").saveAsTable("workspace.default.uber_eficiencia_estrategia_3")
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ## Fim
+
+# COMMAND ----------
+
+dbutils.notebook.exit("success")
